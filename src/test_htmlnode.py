@@ -25,9 +25,5 @@ class TestHTMLNode(unittest.TestCase):
         node = HTMLNode("p", "What a strange world", None, {"class": "primary"})
         self.assertEqual(node.__repr__(), "HTMLNode(p, What a strange world, children: None, {'class': 'primary'})")
 
-    def test_repr(self):
-        node = HTMLNode("p", "What a strange world", None, {"class": "primary"})
-        self.assertEqual(node.__repr__(), "HTMLNode(p, What a strange world, children: None, {'class': 'primary'})")
-        
 if __name__ == "__main__":
     unittest.main()
