@@ -61,5 +61,11 @@ class TestTextNode(unittest.TestCase):
         self.assertEqual(html_node.tag, "b")
         self.assertEqual(html_node.value, "This is not a text node")
 
+    def test_text_three(self):
+        node = TextNode("This is some text", TextType.ITALIC)
+        html_node = text_node_to_html_node(node)
+        self.assertEqual(html_node.tag, "i")
+        self.assertEqual(html_node.value, "This is some text")
+
 if __name__ == "__main__":
     unittest.main()
