@@ -1,6 +1,6 @@
 import unittest
 
-from htmlnode import HTMLNode
+from htmlnode import HTMLNode, LeafNode
 
 class TestHTMLNode(unittest.TestCase):
     def test_to_htmp_props(self):
@@ -28,6 +28,18 @@ class TestHTMLNode(unittest.TestCase):
     def test_repr(self):
         node = HTMLNode("p", "What a strange world", None, {"class": "primary"})
         self.assertNotEqual(node.__repr__(), "HTMLNode(six, What a funny world, children: None, {'class': 'primary'})")
+
+    def test_leaf_to_html_p(self):
+        node = LeafNode("p", "Hello, world!")
+        self.assertEqual(node.to_html(), "<p>Hello, world!</p>")
+
+    def test_leaf_to_html_p(self):
+        node = LeafNode("a", "Goodbye cruel world")
+        self.assertNotEqual(node.to_html(), "<b>Goodbye cruel world</b>")
+
+    def test_repr(self):
+        node = LeafNode("j", "What a strange little creature", {"class": "secondary"})
+        self.assertEqual(node.__repr__(), "LeafNode(j, What a strange little creature, {'class': 'secondary'})")
 
 if __name__ == "__main__":
     unittest.main()
