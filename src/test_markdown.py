@@ -1,6 +1,6 @@
 import unittest
 from textnode import TextNode, TextType
-from inline_markdown import extract_markdown_images, extract_markdown_links, split_nodes_image, split_nodes_link
+from inline_markdown import extract_markdown_images, extract_markdown_links, split_nodes_image, split_nodes_link, text_to_textnodes
 
 class TestExtractions(unittest.TestCase):
     def test_extract_markdown_images(self):
@@ -34,6 +34,12 @@ class TestExtractions(unittest.TestCase):
         node = TextNode("[link](https://boot.dev)", TextType.TEXT)
         new_nodes = split_nodes_link([node])
         self.assertListEqual([TextNode("link", TextType.LINKS, "https://boot.dev")], new_nodes)
+
+    def test_text_to_textnodes(self):
+        nodes = text_to_textnodes("This is **text** with an _italic_ word and a `code block` and an ![image](https://i.imgur.com/zjjcJKZ.png) and a [link](https://boot.dev)")
+        self.assertListEqual([TextNode("This is ", TextType.TEXT), TextNode("text", TextType.BOLD), TextNode(" with an ", TextType.TEXT), TextNode("italic", TextType.ITALIC), TextNode(" word and a ", TextType.TEXT), TextNode("code block", TextType.CODE), TextNode(" and an ", TextType.TEXT), TextNode("image", TextType.IMAGES, "https://i.imgur.com/zjjcJKZ.png"), TextNode(" and a ", TextType.TEXT), TextNode("link", TextType.LINKS, "https://boot.dev")], nodes)
+
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -1,5 +1,5 @@
 import re
-from textnode import TextNode, TextType
+from textnode import TextNode, TextType, split_nodes_delimiter
 
 def extract_markdown_images(text):
     matches = re.findall(r"!\[([^\[\]]*)\]\(([^\(\)]*)\)", text)
@@ -55,3 +55,12 @@ def split_nodes_link(old_nodes: list[TextNode]) -> list[TextNode]:
         if texts != "":
             new_nodes.append(TextNode(texts, TextType.TEXT))
     return new_nodes
+
+def text_to_textnodes(text):
+    nodes = [TextNode(text, TextType.TEXT)]
+    nodes = split_nodes_delimiter(nodes, "**", TextType.BOLD)
+    nodes = split_nodes_delimiter(nodes, "_", TextType.ITALIC)
+    nodes = split_nodes_delimiter(nodes, "`", TextType.CODE)
+    nodes = split_nodes_image(nodes)
+    nodes = split_nodes_link(nodes)
+    return nodes
