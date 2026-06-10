@@ -1,5 +1,6 @@
 import unittest
-from inline_markdown import extract_markdown_images, extract_markdown_links
+from textnode import TextNode, TextType
+from inline_markdown import extract_markdown_images, extract_markdown_links, split_nodes_image, split_nodes_link
 
 class TestExtractions(unittest.TestCase):
     def test_extract_markdown_images(self):
@@ -13,3 +14,18 @@ class TestExtractions(unittest.TestCase):
     def test_markdown_links(self):
         matches = extract_markdown_links("This is text with a [link](https://www.youtube.com) and [another link](https://github.com/JRPOGM/PokePoems-library)")
         self.assertListEqual([("link", "https://www.youtube.com"), ("another link", "https://github.com/JRPOGM/PokePoems-library")], matches)
+
+    def test_split_images(self):
+        node = TextNode("This is text with an ![image](https://i.imgur.com/zjjcJKZ.png)", TextType.TEXT)
+        new_nodes = split_nodes_image([node])
+        self.assertListEqual([TextNode("This is text with an ", TextType.TEXT), TextNode("image", TextType.IMAGES, "https://i.imgur.com/zjjcJKZ.png")], new_nodes)
+
+    def test_split_links(self):
+        node = TextNode("This is text with a [link](https://boot.dev)", TextType.TEXT)
+        new_nodes = split_nodes_link([node])
+        self.assertListEqual([TextNode("This is text with a ", TextType.TEXT), TextNode("link", TextType.LINKS, "https://boot.dev")], new_nodes)
+
+
+
+if __name__ == "__main__":
+    unittest.main()
