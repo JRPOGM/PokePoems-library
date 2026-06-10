@@ -12,4 +12,4 @@ class TestExtractions(unittest.TestCase):
 
     def test_markdown_links(self):
         matches = extract_markdown_links("This is text with a [link](https://www.youtube.com) and [another link](https://github.com/JRPOGM/PokePoems-library)")
-        self.assertListEqual([("link", "https://www.youtube.com"), ("another  link", "https://github.com/JRPOGM/PokePoems-library")], matches)
+        self.assertListEqual([("link", "https://www.youtube.com"), ("another link", "https://github.com/JRPOGM/PokePoems-library")], matches)
