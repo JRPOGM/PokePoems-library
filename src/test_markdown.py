@@ -30,5 +30,10 @@ class TestExtractions(unittest.TestCase):
         new_nodes = split_nodes_image([node])
         self.assertListEqual([TextNode("image", TextType.IMAGES, "https://www.example.COM/IMAGE.PNG")], new_nodes)
 
+    def test_split_link_single(self):
+        node = TextNode("[link](https://boot.dev)", TextType.TEXT)
+        new_nodes = split_nodes_link([node])
+        self.assertListEqual([TextNode("link", TextType.LINKS, "https://boot.dev")], new_nodes)
+
 if __name__ == "__main__":
     unittest.main()
