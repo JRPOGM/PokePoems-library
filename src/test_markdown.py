@@ -46,7 +46,7 @@ class TestExtractions(unittest.TestCase):
 
     def test_text_to_textnodes3(self):
         nodes = text_to_textnodes("This is more **text** with a [link](https://boot.dev) and some normal `codes`")
-        self.assertListEqual([TextNode("This is more ", TextType.TEXT), TextNode("text", TextType.BOLD), TextNode(" with a ", TextType.TEXT), TextNode("link", TextType.LINKS, "https://boot.dev"), TextNode(" and some normal ", TextType.Text), TextNode("codes", TextType.CODE)], nodes)
+        self.assertListEqual([TextNode("This is more ", TextType.TEXT), TextNode("text", TextType.BOLD), TextNode(" with a ", TextType.TEXT), TextNode("link", TextType.LINKS, "https://boot.dev"), TextNode(" and some normal ", TextType.TEXT), TextNode("codes", TextType.CODE)], nodes)
 
 
     def test_text_to_textnodes4(self):
