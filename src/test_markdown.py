@@ -39,6 +39,19 @@ class TestExtractions(unittest.TestCase):
         nodes = text_to_textnodes("This is **text** with an _italic_ word and a `code block` and an ![image](https://i.imgur.com/zjjcJKZ.png) and a [link](https://boot.dev)")
         self.assertListEqual([TextNode("This is ", TextType.TEXT), TextNode("text", TextType.BOLD), TextNode(" with an ", TextType.TEXT), TextNode("italic", TextType.ITALIC), TextNode(" word and a ", TextType.TEXT), TextNode("code block", TextType.CODE), TextNode(" and an ", TextType.TEXT), TextNode("image", TextType.IMAGES, "https://i.imgur.com/zjjcJKZ.png"), TextNode(" and a ", TextType.TEXT), TextNode("link", TextType.LINKS, "https://boot.dev")], nodes)
 
+    def test_text_to_textnodes2(self):
+        nodes = text_to_textnodes("This is _text_ with only **words**")
+        self.assertListEqual([TextNode("This is ", TextType.TEXT), TextNode("text", TextType.ITALIC), TextNode(" with only ", TextType.TEXT), TextNode("words", TextType.BOLD)], nodes)
+
+
+    def test_text_to_textnodes3(self):
+        nodes = text_to_textnodes("This is more **text** with a [link](https://boot.dev) and some normal `codes`")
+        self.assertListEqual([TextNode("This is more ", TextType.TEXT), TextNode("text", TextType.BOLD), TextNode(" with a ", TextType.TEXT), TextNode("link", TextType.LINKS, "https://boot.dev"), TextNode(" and some normal ", TextType.Text), TextNode("codes", TextType.CODE)], nodes)
+
+
+    def test_text_to_textnodes4(self):
+        nodes = text_to_textnodes("This is test with an ![image](https://i.imgur.com/zjjcJKZ.png) and **absolutely nothing else**")
+        self.assertListEqual([TextNode("This is test with an ", TextType.TEXT), TextNode("image", TextType.IMAGES, "https://i.imgur.com/zjjcJKZ.png"), TextNode(" and ", TextType.TEXT), TextNode("absolutely nothing else", TextType.BOLD)], nodes)
 
 
 if __name__ == "__main__":
