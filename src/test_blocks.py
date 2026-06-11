@@ -52,7 +52,6 @@ tag here
 This is another paragraph with _italic_ text and `code` here
 
 """
-
         node = markdown_to_html_node(md)
         html = node.to_html()
         self.assertEqual(
@@ -67,10 +66,23 @@ This is text that _should_ remain
 the **same** even with inline stuff
 ```
 """
-
         node = markdown_to_html_node(md)
         html = node.to_html()
         self.assertEqual(
             html,
             "<div><pre><code>This is text that _should_ remain\nthe **same** even with inline stuff\n</code></pre></div>",
+        )
+
+    def test_quotes(self):
+        md = """
+> This is text in a quote
+> This is a **bold quote**
+> This is an _italic_ quote
+> This is some `code`
+"""
+        node = markdown_to_html_node(md)
+        html = node.to_html()
+        self.assertEqual(
+            html,
+            "<div><blockquote>This is text in a quote\nThis is a <b>bold uqote</b>\nThis is an <i>italic</i> quote\nThis is some <code>code</code></blockquote></div>",
         )
