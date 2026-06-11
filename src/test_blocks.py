@@ -100,3 +100,16 @@ the **same** even with inline stuff
             html,
             "<div><ol><li>I'm making a list again</li><li>But I don't have to check it twice</li><li>This is where I complete me joke from earlier</li><li>To get to the other side</li></ol></div>",
         )
+    
+    def test_unordered_list(self):
+        md = """
+- This should be the same format
+- I wonder why only code needs the line break
+- Despite everything else having another line
+"""
+        node = markdown_to_html_node(md)
+        html = node.to_html()
+        self.assertEqual(
+            html,
+            "<div><ul><li>This should be the same format</li><li>I wonder why only code needs the line break</li><li>Despite everything else having another line</li></ul></div>",
+        )
