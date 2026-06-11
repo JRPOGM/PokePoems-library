@@ -1,6 +1,6 @@
 import unittest
 from textnode import TextNode, TextType
-from inline_markdown import extract_markdown_images, extract_markdown_links, split_nodes_image, split_nodes_link, text_to_textnodes
+from inline_markdown import extract_markdown_images, markdown_to_blocks, extract_markdown_links, split_nodes_image, split_nodes_link, text_to_textnodes
 
 class TestExtractions(unittest.TestCase):
     def test_extract_markdown_images(self):
@@ -52,6 +52,52 @@ class TestExtractions(unittest.TestCase):
     def test_text_to_textnodes4(self):
         nodes = text_to_textnodes("This is test with an ![image](https://i.imgur.com/zjjcJKZ.png) and **absolutely nothing else**")
         self.assertListEqual([TextNode("This is test with an ", TextType.TEXT), TextNode("image", TextType.IMAGES, "https://i.imgur.com/zjjcJKZ.png"), TextNode(" and ", TextType.TEXT), TextNode("absolutely nothing else", TextType.BOLD)], nodes)
+
+    def test_markdown_to_blocks(self):
+        md = """
+This is **bolded** paragraph
+
+This is another paragraph with _italic_ text and `code` here
+This is the same paragraph on a new line
+
+- This is a list
+- with items
+"""
+        blocks = markdown_to_blocks(md)
+        self.assertEqual(
+            blocks,
+            [
+                "This is **bolded** paragraph",
+                "This is another paragraph with _italic_ text and `code` here\nThis is the same paragraph on a new line",
+                "- This is a list\n- with items",
+            ],
+        )
+
+    def test_marl_to_blocks_2(self):
+        md = """
+_This text is italic_
+
+This is a paragraph with a **bold** word choice
+This text has a `code block` inside it
+And this is just normal text
+
+- But I'm making a list
+- And checking it twice
+- But it's June so no this doesn't rhyme
+"""
+        blocks = markdown_to_blocks(md)
+        self.assertEqual(
+            blocks,
+            [
+                "_This text is italic_",
+                "This is a paragraph with a **bold** word choice\nThis text has a `code block` inside it\nAnd this is just normal text",
+                "- But I'm making a list\n- And checking it twice\n- But it's June so no this doesn't rhyme",   
+            ],
+        )
+
+
+
+
 
 
 if __name__ == "__main__":
