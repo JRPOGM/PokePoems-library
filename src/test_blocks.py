@@ -117,10 +117,15 @@ the **same** even with inline stuff
     def test_headings(self):
         md = """
 # How many headings can I go
+
 ## How much is too much
+
 ### Does this even work
+
 #### Does God know what he has created
+
 ##### Is he afraid
+
 ###### Are you
 """
         node = markdown_to_html_node(md)
