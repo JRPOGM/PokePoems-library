@@ -86,3 +86,17 @@ the **same** even with inline stuff
             html,
             "<div><blockquote>This is text in a quote This is a <b>bold quote</b> This is an <i>italic</i> quote This is some <code>code</code></blockquote></div>",
         )
+    
+    def test_ordered_list(self):
+        md = """
+1. I'm making a list again
+2. But I don't have to check it twice
+3. This is where I complete me joke from earlier
+4. To get to the other side
+"""
+        node = markdown_to_html_node(md)
+        html = node.to_html()
+        self.assertEqual(
+            html,
+            "<div><ol><li>I'm making a list again</li><li>But I don't have to check it twice</li><li>This is where I complete me joke from earlier</li><li>To get to the other side</li></ol></div>",
+        )
