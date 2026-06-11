@@ -113,3 +113,6 @@ the **same** even with inline stuff
             html,
             "<div><ul><li>This should be the same format</li><li>I wonder why only code needs the line break</li><li>Despite everything else having another line</li></ul></div>",
         )
+
+if __name__ == "__main__":
+    unittest.main()
