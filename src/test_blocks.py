@@ -84,5 +84,5 @@ the **same** even with inline stuff
         html = node.to_html()
         self.assertEqual(
             html,
-            "<div><blockquote>This is text in a quote\nThis is a <b>bold uqote</b>\nThis is an <i>italic</i> quote\nThis is some <code>code</code></blockquote></div>",
+            "<div><blockquote>This is text in a quote\nThis is a <b>bold quote</b>\nThis is an <i>italic</i> quote\nThis is some <code>code</code></blockquote></div>",
         )
