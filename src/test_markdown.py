@@ -73,7 +73,7 @@ This is the same paragraph on a new line
             ],
         )
 
-    def test_marl_to_blocks_2(self):
+    def test_mark_to_blocks_2(self):
         md = """
 _This text is italic_
 
@@ -95,8 +95,29 @@ And this is just normal text
             ],
         )
 
+    def test_mark_to_blocks_3(self):
+        md = """
+I can write a few paragraphs, I don't see why that's a problem
+It's a lot of code but so long as I understand this format it should be okay
+Do you see a problem with it, **random parasite** on my shoulder?
 
+I realize now you can't see who I'm talking to
+But you will be thinking about a tiny worm whose head is a larger diameter than its tail
+But that's also how I think biology works so _it's not like that's a gacha_
 
+1. I'm going to rewrite biology
+2. I'm going to talk to Frankenstein
+3. You'll believe every word I say
+"""
+        blocks = markdown_to_blocks(md)
+        self.assertNotEqual(
+            blocks,
+            [
+                "This is mostly a test to see what I can get away with\nWhat are you gonna do, shoot me?\nDon't actually do that please",
+                "I just need to make more tests of not equals\nSee what makes them different from one another\nI just don't get it all that well",
+                "1. I'm submitting a formal complaint\n2. I don't care\n3. This is it",
+            ],
+        )
 
 
 
