@@ -1,4 +1,5 @@
 import re
+import enum
 from textnode import TextNode, TextType, split_nodes_delimiter
 
 def extract_markdown_images(text):
