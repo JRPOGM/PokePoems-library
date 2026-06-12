@@ -1,28 +1,28 @@
 # The Son and The Soil
 
 <blockquote>
-There are many things you are born without
-Notions and understandings
-Knowledge and feeling
-You are not the flowers blooming in the garden
+There are many things you are born without  
+Notions and understandings  
+Knowledge and feeling  
+You are not the flowers blooming in the garden  
 You are born the tilled soil
 
-But seeds will be forever planted in you, by hand or by chance
-Right and wrong will blossom into a flowerbed and reason, culled of weeds
+But seeds will be forever planted in you, by hand or by chance  
+Right and wrong will blossom into a flowerbed and reason, culled of weeds  
 Wisdom will be the towering orchard, long-taken but bearing its fruits
 
-You will be tended to
-And you will be trampled
+You will be tended to  
+And you will be trampled  
 Worms may dig their way into your head
 
-But may the faces you love be who you see in the sky
-Shining down upon you in the waking day, may you grow in their brightness
-May the tears that storm down in the absence be soaked
+But may the faces you love be who you see in the sky  
+Shining down upon you in the waking day, may you grow in their brightness  
+May the tears that storm down in the absence be soaked  
 May they enrich you until the next sunny day
 
-Flourish, little land
-Let your pollen draw in the swarm
-For the day people come to you
+Flourish, little land  
+Let your pollen draw in the swarm  
+For the day people come to you  
 To leave with bouquets and baskets
 </blockquote>
 
