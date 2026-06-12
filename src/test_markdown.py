@@ -1,6 +1,6 @@
 import unittest
 from textnode import TextNode, TextType
-from inline_markdown import extract_title, extract_markdown_images, markdown_to_blocks, extract_markdown_links, split_nodes_image, split_nodes_link, text_to_textnodes
+from inline_markdown import extract_markdown_images, markdown_to_blocks, extract_markdown_links, split_nodes_image, split_nodes_link, text_to_textnodes
 
 class TestExtractions(unittest.TestCase):
     def test_extract_markdown_images(self):

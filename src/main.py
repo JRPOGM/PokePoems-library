@@ -2,7 +2,7 @@ import os
 import shutil
 
 from copystatic import copy_files_recursive
-from inline_markdown import generate_page
+from gencontent import generate_page
 
 direct_path_static = "./static"
 direct_path_public = "./public"
@@ -17,7 +17,7 @@ def main():
     copy_files_recursive(direct_path_static, direct_path_public)
     print("Generating page...")
     generate_page(os.path.join(direct_path_content, "index.md"), template_path, os.path.join(direct_path_public, "index.html"))
-    
+
 
 
 main()
