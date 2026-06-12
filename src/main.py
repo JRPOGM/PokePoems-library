@@ -20,16 +20,16 @@ def main():
                   template_path,
                   os.path.join(direct_path_public, "index.html"))
     generate_page(
-        os.path.join(direct_path_content, "blog/glorfindel/index.md"),
+        os.path.join(direct_path_content, "pokemon/bulbasaur/index.md"),
         template_path,
-        os.path.join(direct_path_public, "blog/glorfindel/index.html"))
+        os.path.join(direct_path_public, "pokemon/bulbasaur/index.html"))
     generate_page(
-        os.path.join(direct_path_content, "blog/tom/index.md"),
+        os.path.join(direct_path_content, "pokemon/charmander/index.md"),
         template_path,
-        os.path.join(direct_path_public, "blog/tom/index.html"))
+        os.path.join(direct_path_public, "pokemon/charmander/index.html"))
     generate_page(
-        os.path.join(direct_path_content, "blog/majesty/index.md"),
+        os.path.join(direct_path_content, "pokemon/squirtle/index.md"),
         template_path,
-        os.path.join(direct_path_public, "blog/majesty/index.html"))
+        os.path.join(direct_path_public, "pokemon/squirtle/index.html"))
 
 main()
