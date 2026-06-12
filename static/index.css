@@ -1,5 +1,5 @@
 body {
-  background-color: #1f1c25;
+  background-color: #dbdbdb;
   color: #f0e6d1;
   font-family: "Luminari", "Georgia", serif;
   line-height: 1.7;
@@ -20,14 +20,13 @@ h3,
 h4,
 h5,
 h6 {
-  color: #dda15e;
+  color: #000000;
   margin-top: 24px;
   margin-bottom: 16px;
-  text-shadow: 2px 2px 4px #000;
 }
 
 h1 {
-  font-size: 2.5em;
+  font-size: 3em;
 }
 
 h2 {
@@ -41,7 +40,7 @@ h3 {
 h4,
 h5,
 h6 {
-  font-size: 1.2em;
+  font-size: 1em;
 }
 
 a {
