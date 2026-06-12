@@ -150,8 +150,7 @@ But this should make it clear
         self.assertNotEqual(actual, "This is just a stand-in")
 
     def test_title_extract_5(self):
-        actual = extract_title("# Could I write all the titles on one line"
-        "But does this mess anything up?")
+        actual = extract_title("# Could I write all the titles on one line\nBut does this mess anything up?")
         self.assertEqual(actual, "Could I write all the titles on one line")
 
 if __name__ == "__main__":
