@@ -23,6 +23,6 @@ def generate_page(from_path, template_path, dest_path):
     template_content = template_content.replace("{{ Content }}", html)
     destination = os.path.dirname(dest_path)
     if destination != "":
-        os.markdir(destination, exist_ok=True)
+        os.mkdir(destination, exist_ok=True)
     to_file = open(dest_path, "w")
     to_file.write(template_content)
