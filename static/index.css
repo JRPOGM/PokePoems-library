@@ -47,7 +47,6 @@ h6 {
 a {
   color: #000000;
   text-decoration: none;
-  border-bottom: 2px solid #000000;
 }
 
 a:hover {
@@ -86,7 +85,7 @@ blockquote {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   padding-right: 0.5em;
-  color: #ddd;
+  color: #000000;
   font-family: "Times New Roman", Times, serif;
 }
 
