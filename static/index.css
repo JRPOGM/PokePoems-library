@@ -1,6 +1,5 @@
 body {
-  background-image: url("images/new text.png");
-  background-color: #dbdbdb;
+  background-color: #ffe48ac7;
   color: #000000;
   font-family: "Luminari", "Georgia", serif;
   line-height: 1.7;
@@ -45,9 +44,9 @@ h6 {
 }
 
 a {
-  color: #e0a96d;
+  color: #6f6de0;
   text-decoration: none;
-  border-bottom: 2px solid #e0a96d;
+  border-bottom: 2px solid #6f6de0;
 }
 
 a:hover {
