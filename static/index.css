@@ -85,9 +85,9 @@ blockquote {
   border-left: 4px solid #8d99ae;
   padding-left: 2em;
   margin-left: 0;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
-  padding-right: 0.5em;
+  padding-top: 0.1em;
+  padding-bottom: 0.1em;
+  padding-right: 0.1em;
   color: #ddd;
   font-family: "Times New Roman", Times, serif;
 }
