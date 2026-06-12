@@ -28,7 +28,7 @@ To leave with bouquets and baskets
 
 ## Bulbasaur, the Seed Pokemon
 
-![hand-drawn artwork](/public/images/bulbasaur.png)
+![hand-drawn artwork](/images/bulbasaur.jpeg)
 
 > "_Bulbasaur are a species widely recognized by the bulb (or seed, as it is also referred to) atop their backs, a trait most other plant Pokémon do not share. This bulb grows as the Pokémon does, though the speeds at which they grow can differ thanks to the different diets both it and the Bulbasaur require. While both Bulbasaur and its bulb can feed off direct sunlight and process energy through themselves with photosynthesis, the Bulbasaur also survives off direct consumption of food, water and other materials to stay healthy; were a Bulbasaur to be taken care off as most other non-plant Pokémon, lacking direct exposure to the sun, the bulb on its back would grow at a slower rate and look too small to the Bulbasaur. Conversely, were a Bulbasaur to be overexposed to direct sunlight, instead of exposure in moderation, the bulb on its back can outpace the main body’s growth and become larger and wider than it. To remedy a case of the latter effect, the bulb on a Bulbasaur’s back is filled with seeds that store much of the energy consumed through sunlight that the Seed Pokémon can survive on in place of other foods, diminishing the size of its bulb steadily overtime until it is a manageable size once again._"
 
