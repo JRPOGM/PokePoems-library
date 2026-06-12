@@ -4,7 +4,7 @@ This is a vault of all [poems](), [artwork]() and [biographical data]() I have c
 
 ## [Poems]()
 
-- [The Son and The Soil](/pokemon/bulbasaur) - [The Burning Man]() - [Shell of Theseus]()
+- [The Son and The Soil](/pokemon/bulbasaur) - [The Burning Man](/pokemon/charmander) - [Shell of Theseus](/pokemon/squirtle)
 - [You’re a Growing Boy]() - [Hungry, Hungry Caterpillar]() - [Be Careful, Little Birdie]()
 - [Rat Pak]() - [Just The Way You Are]() - [Looking Out for the Little Ones]()
 - [Survival]() - [Pretty Woman]() - [The Wall]()
