@@ -1,46 +1,75 @@
-# Tolkien Fan Club
+# The PokePoems Dex
 
-![JRR Tolkien sitting](/images/tolkien.png)
+This is a vault of all [poems](), [artwork]() and [biographical data]() I have created over the past few months, focusing on the basic stage forms of [Pokemon]() from the first generation of games. This includes [sixty]()-[three]() different Pokemon all given their own treatment and themes, even if that isn’t [all of them.]()
 
-Here's the deal, **I like Tolkien**.
+## [Poems]()
 
-> "I am in fact a Hobbit in all but size."
->
-> -- J.R.R. Tolkien
+- [The Son and The Soil]() 
+- [The Burning Man]()
+- [Shell of Theseus]()
+- [You’re a Growing Boy]()
+- [Hungry, Hungry Caterpillar]()
+- [Be Careful, Little Birdie]()
+- [Rat Pak]()
+- [Just The Way You Are]()
+- [Looking Out for the Little Ones]()
+- [Survival]()
+- [Pretty Woman]()
+- [The Wall]()
+- [Out Like a Light]()
+- [For Who Hears You, Loves You]()
+- [Love of my Light]()
+- [Control]()
+- [Big Brother]()
+- [Mystery Man]()
+- [Like a Cat]()
+- [At the Gate of Memories]()
+- [New World Anger]()
+- [Man’s Best Friend]()
+- [Thin-Skinned]()
+- [Living In A Dream]()
+- [Forks in the Road]()
+- [Plant Your Feet]()
+- [Washed Up with the Tide]()
+- [Stand Tall]()
+- [The Horse with the Diamond Hooves]()
+- [My Heart is Not Here]()
+- [Attraction]()
+- [Carry a Big Stick]()
+- [No One Without Another]()
+- [Traveling Holiday]()
+- [Right Or Wrong]()
+- [Pearly Whites]()
+- [Vengeful Spirits]()
+- [Onyx Eyes]()
+- [Cotton Candy Dreams]()
+- [Life of a Sand Bubbler]()
+- [100 And 100 More]()
+- [Misnomers]()
+- [Ode to Mona]()
+- [Sensational Memories]()
+- [Genie in a Bottle]()
+- [The Big Man]()
+- [Word Play]()
+- [Mama Bird]()
+- [Nothing to Fear]()
+- [Ocean Beauty]()
+- [Star Dust Siblings]()
+- [Clashing Blades]()
+- [Sign of the Horns]()
+- [Grabbing the Bull by the Horns]()
+- [Strength of a Dragon]()
+- [Ferrying the People]()
+- [Masquerade]()
+- [Secrets of the Universe]()
+- [Digital Footprints on the Moon]()
+- [An Endless Shroud of Mystery]()
+- [To Be Human is To Be Durable]()
+- [Jaws of Life]()
+- [Layers of Mankind]()
 
-## Blog posts
+### This Was A [Personal Project]()
 
-- [Why Glorfindel is More Impressive than Legolas](/blog/glorfindel)
-- [Why Tom Bombadil Was a Mistake](/blog/tom)
-- [The Unparalleled Majesty of "The Lord of the Rings"](/blog/majesty)
+With Pokemon celebrating [thirty years]() since the launch of their first game and well over twenty of my own spent playing their [games](), collecting their [cards],() watching their [shows]() and [movies](), and listening to their [music](), I wanted to find a new way to express how this series has impacted and inspired me. In writing do I wish to pursue a future, so in writing things inspired by their world and every corner of it do I [pursue]().
 
-## Reasons I like Tolkien
-
-- You can spend years studying the legendarium and still not understand its depths
-- It can be enjoyed by children and adults alike
-- Disney _didn't ruin it_ (okay, but Amazon might have)
-- It created an entirely new genre of fantasy
-
-## My favorite characters (in order)
-
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
-
-Here's what `elflang` looks like (the perfect coding language):
-
-```
-func main(){
-    fmt.Println("Aiya, Ambar!")
-}
-```
-
-Want to get in touch? [Contact me here](/contact).
-
-This site was generated with a custom-built [static site generator](https://www.boot.dev/courses/build-static-site-generator-python) from the course on [Boot.dev](https://www.boot.dev).s
+> All these poems and more have been and will be published on the website AllPoetry, under the pen name [JRPOGM]()
