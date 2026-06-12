@@ -89,8 +89,7 @@ blockquote {
   font-family: "Times New Roman", Times, serif;
 }
 
-img[src*='#left'] {
-  float: left;
+img {
   max-width: 100%;
   height: auto;
   border-radius: 6px;
