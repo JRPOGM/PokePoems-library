@@ -118,7 +118,7 @@ img {
 }
 
 * {
-  scrollbar-width: thin;
+  scrollbar-width: thick;
   scrollbar-color: #3c3c42 #1f1c25;
 }
 
