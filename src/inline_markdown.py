@@ -74,3 +74,10 @@ def markdown_to_blocks(markdown):
         if strip_blocks != "":
             block_strings.append(strip_blocks)
     return block_strings
+
+def extract_title(markdown):
+    lines = markdown.split("\n")
+    for line in lines:
+        if line.startswith("# "):
+            return line[2:]
+    return ValueError("Missing heading")
