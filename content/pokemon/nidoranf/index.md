@@ -29,7 +29,7 @@ A testing, fang-filled smile my way
 
 ## Nidoran♀, the Poison Pin Pokemon
 
-![hand-drawn artwork](/images/nidoran_f.jpeg)
+![hand-drawn artwork](/images/nidoranf.jpeg)
 
 > “_The Nidoran is one of the few known Pokémon in the world whose difference between its male and female subjects can categorize them as separate species. Female Nidoran are the blue-skinned breed of the species, and beyond that are still visibly different from their male counterparts. Their bodies and horns are smoother, their ears are smaller, bodies bulkier and fangs larger. They also develop whiskers that the males don’t, and they use these to detect the direction of the wind and sense nearby predators._”
 

@@ -30,7 +30,7 @@ See to it that you are not the only building block to fight for this home
 
 ## Nidoran♂ , the Poison Pin Pokémon
 
-![hand-drawn artwork](/images/nidoran_m.jpeg)
+![hand-drawn artwork](/images/nidoranm.jpeg)
 
 > “_The male breed of Nidoran are the fighters of the Nidoran line. With a slimmer body and an array of harsh horns along their back to compliment the sharp protrusion on their heads, the males take an active stance in battle, fiercely challenging opponents even five times their size. And they do not back down even in the toughest of situations, powering through for victory and the protection of their female counterparts in the pack. Thanks to the same venom in the females being present not only in the temple horn of the males but in every horn across their body, there are very few predators in the wild who can risk a long, drawn-out battle with even some of the weaker male Nidoran in their packs._”
 
