@@ -126,7 +126,7 @@ def main():
     generate_page(
         os.path.join(direct_path_content, "pokemon/tentacool/index.md"),
         template_path,
-        os.path.join(direct_path_public, "pokemon/tentecool/index.html"))
+        os.path.join(direct_path_public, "pokemon/tentacool/index.html"))
     generate_page(
         os.path.join(direct_path_content, "pokemon/geodude/index.md"),
         template_path,
