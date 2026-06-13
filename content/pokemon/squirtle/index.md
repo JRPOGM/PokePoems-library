@@ -1,57 +1,33 @@
-# Why Tom Bombadil Was a Mistake
+# The Burning Man
 
-[< Back Home](/)
+<blockquote>
+You, the man with the heart on your sleeve<br>
+You are the man everyone can read<br>
+Every expression is textbook<br>
+Every breath, subtle or heaved<br>
+There is not an inch of you another man would not believe
 
-![Tom Bombadil image](/images/tom.png)
+But that same heart burns fiercely<br>
+It ignites in confidence and rage<br>
+Burns brighter with age<br>
+Spreads and catches everyone<br>
+Whose hopes are on the same page
 
-> "Old Tom Bombadil is a merry fellow; bright blue his jacket is, and his boots are yellow. Alas, his merry song may not belong in this plot's prolonged confluence."
+You can weather the storm, face down the giants<br>
+Your heart on your sleeves beats your chest in defiance<br>
+That fire that burns in your can engulf tyrants
 
-In the vast and intricate weave of J.R.R. Tolkien's legendarium, amidst heroes of renown and tales of high adventure, there exists a curious anomaly: Tom Bombadil. This peculiar figure, whimsical and unfettered by the weight of Middle-earth's burdens, has long been a point of contention among scholars and enthusiasts. While his character exudes charm and mystery, I, as an ancient **Archmage**, must assert that his inclusion in _The Lord of the Rings_ was, unfortunately, a narrative misstep.
+And you, the man everyone can read<br>
+Will still burn, like the Sun<br>
+It’s men like you we need
+</blockquote>
 
-_An unpopular opinion, I know._
+## Charmander, the Lizard Pokemon
 
-## Introduction
+![hand-drawn artwork](/images/charmander.jpeg)
 
-Having traversed the corridors of Tolkien's sprawling world, immersed in its lore, I have come to understand the impact of cohesion and momentum in storytelling. Thus, I find myself compelled to examine Tom Bombadil's role and question the necessity of his presence within the epic saga. As we embark on this critical inquiry, let us consider the reasons why Old Tom's playful presence may be seen as a disruptive force.
+> “_A Charmander’s life is intrinsically tied to the fire on the tips of their tail. While they grow in their eggs, their tails never spark; once they are born and exposed to the natural air of the world, their tails immediately ignite and begin to burn. Charmander do not have a natural immunity to their fire, though, as the youngest hatchling among them can suffer burns by playing with their tails or the tails of others; fire still burns them at this age. It takes months before a Charmander will no longer be harmed by their own fire, and several more for them to find the capability to use it in battle, often spewing it from their mouths._”
 
-## An Intriguing Yet Disjointed Figure
+> “_Thanks to years of research and understanding, we know the fire on a Charmander’s tail has ties to the Pokémon’s heart and health. How strong and brightly the flame burns is indicative of various ailments or wellness for the Lizard Pokémon. The largest and brightest tails are a sign of a healthy and powerful Charmander, while small and weak flames can suggest hunger, sickness and weakness after battle (these variations are distinguished by the Charmander’s attitude at the time as well.) But when we say the flame has ties to their heart, we also mean that it can be viewed similarly to an atria. The fire of its tail surges up its body and into its heart as a source of energy alongside the blood its heart pumps, and were the fire on its tail to be snuffed out in any way for a long enough period of time, it could stop the Charmander’s heart and inevitably kill the Pokémon. So too does the interaction work in reverse; were the Pokémon’s heart to stop and never start back up, for any reason, its tail would stop burning too. Their tails will burn even as they sleep, so if any Charmander is seen without a flame on its tail, it has already passed on to the next life._”
 
-### A Divergence from Narrative Flow
-
-Tolkien's epic is known for its meticulous pacing and the gravity of its themes. Enter Tom Bombadil – a character whose frivolity and detachment from worldly events create a jarring contrast within the otherwise cohesive narrative:
-
-1. **An Unnecessary Interlude**: The encounter with Tom, while quaint and endearing, serves as a temporal diversion that detracts from the urgency of the Fellowship's quest.
-2. **An Outlier in Purpose**: His escapades, while rich in mirth, add little to the central narrative, raising questions about their relevance in the grand design of Middle-earth.
-
-## An Enigma that Remains Unresolved
-
-### A Break from Coherence
-
-In a tale defined by intricate connections and deeply rooted mythology, Bombadil's inexplicable nature poses a challenge to the narrative's internal logic:
-
-- **A Mystery Without Resolution**: Unlike other enigmatic figures whose backstories enrich the tapestry, Tom remains enigmatic, shrouded in mystery that neither advances the plot nor deepens the lore.
-- **A Departure from Tone**: His presence, filled with lighthearted songs and whimsical antics, contrasts sharply with the solemnity and tension that define the rest of the saga.
-
-```
-print("Tom")
-print("Bombadil")
-print("A")
-print("Mystery")
-```
-
-## A Theme of **Disruption**
-
-### An Element of Distraction
-
-Tom Bombadil's inclusion inadvertently shifts focus from the pressing matters of Middle-earth, introducing themes that sit uneasily with the narrative's core:
-
-- **A Shift in Focus**: His carefree demeanor and ability to withhold the power of the One Ring, while intriguing, distract from the overarching themes of sacrifice and moral complexity.
-- **A Misstep in Continuity**: His segment, charming as it may be, disrupts the journey's continuous build-up towards the looming confrontation with darkness.
-
-## Conclusion
-
-As we ponder the manifold wonders and intricacies of Tolkien's world, it is evident that Tom Bombadil, while delightfully unique, was a narrative anomaly – a whimsical reflection in the mirror of Middle-earth's grand narrative. While his character captivates with a certain mystique, it answers questions that were never asked, leaving readers with more enigmas than revelations.
-
-In conclusion, as one who has explored the mythic past of Middle-earth and sought coherence in its storied legacy, I propose that Tom Bombadil, for all his merriment and enigma, was a divergence from the tale's destined path – a curiosity that, while endearing to some, stands as a reminder that even in the most meticulously crafted worlds, not all paths lead to the fulfillment of the quest.
-
-Thus, let us bid farewell to Old Tom with a final song, recognizing both his charm and the discord his presence sowed. For within the hallowed pages of Tolkien's masterpiece, every beat must resonate with purpose, lest the harmony of the tale be lost to idle whimsy.
+[< Previous Poem](../bulbasaur) [ Home Page](/) [Next Poem >](../squirtle)
