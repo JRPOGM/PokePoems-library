@@ -1,33 +1,40 @@
-# The Burning Man
+# Shell of Theseus
 
 <blockquote>
-You, the man with the heart on your sleeve<br>
-You are the man everyone can read<br>
-Every expression is textbook<br>
-Every breath, subtle or heaved<br>
-There is not an inch of you another man would not believe
+These walls you’ve built,<br>
+Some think it a home<br>
+This hole you hide in,<br>
+This cave the sun never sees<br>
+You’ve set up shop,<br>
+And refuse to sell<br>
+As though you are buried<br>
+In the depths of the ocean
 
-But that same heart burns fiercely<br>
-It ignites in confidence and rage<br>
-Burns brighter with age<br>
-Spreads and catches everyone<br>
-Whose hopes are on the same page
+But I see it, Theseus,<br>
+This ship you’ve made<br>
+They tear it apart, yet you rebuild,<br>
+For the waves still roll<br>
+You’ve docked at many a port,<br>
+Clashed with many pirates<br>
+And no matter the sails you’ve lost,<br>
+You don’t fail to set out once more
 
-You can weather the storm, face down the giants<br>
-Your heart on your sleeves beats your chest in defiance<br>
-That fire that burns in your can engulf tyrants
-
-And you, the man everyone can read<br>
-Will still burn, like the Sun<br>
-It’s men like you we need
+You’ve built your ship to last,<br>
+Against storm and beast<br>
+Gathered your crew of merry men,<br>
+Armed them to the teeth<br>
+On the chase for your own Moby Dick,<br>
+Your white whale of peace<br>
+Good luck to you, captain<br>
+May she sail the seven seas
 </blockquote>
 
-## Charmander, the Lizard Pokemon
+## Squirtle, the Tiny Turtle Pokemon
 
-![hand-drawn artwork](/images/charmander.jpeg)
+![hand-drawn artwork](/images/squirtle.jpeg)
 
-> “_A Charmander’s life is intrinsically tied to the fire on the tips of their tail. While they grow in their eggs, their tails never spark; once they are born and exposed to the natural air of the world, their tails immediately ignite and begin to burn. Charmander do not have a natural immunity to their fire, though, as the youngest hatchling among them can suffer burns by playing with their tails or the tails of others; fire still burns them at this age. It takes months before a Charmander will no longer be harmed by their own fire, and several more for them to find the capability to use it in battle, often spewing it from their mouths._”
+> “_Squirtles rely heavily on their shells in their lives. Their shells are naturally made, grown with their bodies while still inside their eggs. When they do hatch, their shells are still soft and malleable, but this is as the Squirtle line wants them to be, as their parent Pokémon have them practice swimming in shallow waters at a young age so their shells can harden into a shape conformed and perfect for swimming and riding the waves when they get older. Once they do fully harden, young Squirtle are taught how to propel themselves forward with them, retracting their limbs into the safety of their shells and how to use Bubble and Bubblebeam to create streams of propulsion that let them skip over the water’s surface. Squirtle can outpace lower-end motorboats in the water once they’ve mastered this._”
 
-> “_Thanks to years of research and understanding, we know the fire on a Charmander’s tail has ties to the Pokémon’s heart and health. How strong and brightly the flame burns is indicative of various ailments or wellness for the Lizard Pokémon. The largest and brightest tails are a sign of a healthy and powerful Charmander, while small and weak flames can suggest hunger, sickness and weakness after battle (these variations are distinguished by the Charmander’s attitude at the time as well.) But when we say the flame has ties to their heart, we also mean that it can be viewed similarly to an atria. The fire of its tail surges up its body and into its heart as a source of energy alongside the blood its heart pumps, and were the fire on its tail to be snuffed out in any way for a long enough period of time, it could stop the Charmander’s heart and inevitably kill the Pokémon. So too does the interaction work in reverse; were the Pokémon’s heart to stop and never start back up, for any reason, its tail would stop burning too. Their tails will burn even as they sleep, so if any Charmander is seen without a flame on its tail, it has already passed on to the next life._”
+> “_Beyond swimming, a Squirtle’s shell is also incredibly tough when fully grown. In wild battles, Squirtles are more reactionary creatures than instigators, so they will primarily use their shells to harmlessly block and parry most attacks. Their Water-type attacks can still be powerful, but many Squirtle learn to tucker out the energy of their attackers first with their defensive capabilities before they go on the offensive themselves._”
+[< Previous Poem](../charmander) [Home Page](/) [Next Poem >](../caterpie)
 
-[< Previous Poem](../bulbasaur) [ Home Page](/) [Next Poem >](../squirtle)
