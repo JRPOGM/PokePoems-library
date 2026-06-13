@@ -7,7 +7,7 @@ This is a vault of all [poems](), [artwork]() and [biographical data]() I have c
 - [The Son and The Soil](/pokemon/bulbasaur) - [The Burning Man](/pokemon/charmander) - [Shell of Theseus](/pokemon/squirtle)
 - [You’re a Growing Boy](/pokemon/caterpie) - [Hungry, Hungry Caterpillar](/pokemon/weedle) - [Be Careful, Little Birdie](/pokemon/pidgey)
 - [Rat Pak](/pokemon/rattata) - [Just The Way You Are](/pokemon/spearow) - [Looking Out for the Little Ones](/pokemon/ekans)
-- [Survival](/pokemon/sandshrew) - [Pretty Woman](/pokemon/nidoran_f) - [The Wall](/pokemon/nidoran_m)
+- [Survival](/pokemon/sandshrew) - [Pretty Woman](/pokemon/nidoranf) - [The Wall](/pokemon/nidoranm)
 - [Out Like a Light](/pokemon/vulpix) - [For Who Hears You, Loves You](/pokemon/zubat) - [Love of my Light](/pokemon/oddish)
 - [Control]() - [Big Brother]() - [Mystery Man]()
 - [Like a Cat]() - [At the Gate of Memories]() - [New World Anger]()
