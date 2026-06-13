@@ -79,5 +79,109 @@ def main():
         os.path.join(direct_path_content, "pokemon/oddish/index.md"),
         template_path,
         os.path.join(direct_path_public, "pokemon/oddish/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/paras/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/paras/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/venonat/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/venonat/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/diglett/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/diglett/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/meowth/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/meowth/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/psyduck/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/psyduck/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/mankey/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/mankey/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/growlithe/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/growlithe/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/poliwag/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/poliwag/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/abra/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/abra/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/machop/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/machop/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/bellsprout/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/bellsprout/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/tentacool/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/tentecool/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/geodude/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/geodude/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/ponyta/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/ponyta/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/slowpoke/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/slowpoke/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/magnemite/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/magnemite/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/farfetchd/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/farfetchd/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/doduo/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/doduo/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/seel/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/seel/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/grimer/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/grimer/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/shellder/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/shellder/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/gastly/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/gastly/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/onix/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/onix/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/drowzee/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/drowzee/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/krabby/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/krabby/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/voltorb/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/voltorb/index.html"))
 
 main()
