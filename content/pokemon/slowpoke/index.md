@@ -46,7 +46,7 @@ Somewhere else<br>
 Pumping the blood in my heart
 </blockquote>
 
-## Slowpoke, the Dopey Pokemon
+## Slowpoke, the Dopey Pokémon
 
 ![hand-drawn artwork](/images/slowpoke.jpeg)
 

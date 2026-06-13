@@ -17,7 +17,7 @@ You are not tough because your skin is impervious<br>
 You are tough because it always returns to form
 </blockquote>
 
-## Poliwag, the Tadpole Pokemon
+## Poliwag, the Tadpole Pokémon
 
 ![hand-drawn artwork](/images/poliwag.jpeg)
 

@@ -24,7 +24,7 @@ Big Brother,<br>
 As you burn as you deserve.
 </blockquote>
 
-## Venonat, the Insect Pokemon
+## Venonat, the Insect Pokémon
 
 ![hand-drawn artwork](/images/venonat.jpeg)
 

@@ -19,7 +19,7 @@ Do you think the beached fish you throw back into the sea feels grateful?<br>
 Do you believe it feels at all?
 </blockquote>
 
-## Tentacool, the Jellyfish Pokemon
+## Tentacool, the Jellyfish Pokémon
 
 ![hand-drawn artwork](/images/tentacool.jpeg)
 

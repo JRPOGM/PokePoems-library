@@ -16,7 +16,7 @@ For maybe I could snuff out the source<br>
 Only to be caught up in the flames with it
 </blockquote>
 
-## Vulpix, the Fox Pokemon
+## Vulpix, the Fox Pokémon
 
 ![hand-drawn artwork](/images/vulpix.jpeg)
 

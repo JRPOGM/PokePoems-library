@@ -26,7 +26,7 @@ To her, nothing more than teeth in her gums<br>
 Wishing her smile had no effect at all
 </blockquote>
 
-## Shellder, the Bivalve Pokemon
+## Shellder, the Bivalve Pokémon
 
 ![hand-drawn artwork](/images/shellder.jpeg)
 

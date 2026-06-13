@@ -123,7 +123,7 @@ Was it right to let it fall all on its own?<br>
 Should I have helped it stand again, or should I have been the one to chop it down?
 </blockquote>
 
-## Grimer, the Sludge Pokemon
+## Grimer, the Sludge Pokémon
 
 ![hand-drawn artwork](/images/grimer.jpeg)
 

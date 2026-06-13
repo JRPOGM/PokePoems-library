@@ -27,7 +27,7 @@ Weathered by age, time, and all that comes with<br>
 It is said he’ll see it all go
 </blockquote>
 
-## Onix, the Rock Snake Pokemon
+## Onix, the Rock Snake Pokémon
 
 ![hand-drawn artwork](/images/onix.jpeg)
 

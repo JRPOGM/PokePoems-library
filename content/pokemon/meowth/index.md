@@ -13,7 +13,7 @@ When I’m here<br>
 I promise it’s you
 </blockquote>
 
-## Meowth, the Scratch Cat Pokemon
+## Meowth, the Scratch Cat Pokémon
 
 ![hand-drawn artwork](/images/meowth.jpeg)
 

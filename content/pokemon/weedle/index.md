@@ -27,7 +27,7 @@ To keep up the facade of a man<br>
 Pretending it’s according to plan
 </blockquote>
 
-## Weedle, the Hairy Bug Pokemon
+## Weedle, the Hairy Bug Pokémon
 
 ![hand-drawn artwork](/images/weedle.jpeg)
 

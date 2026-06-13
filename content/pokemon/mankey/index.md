@@ -21,7 +21,7 @@ When they are hunted to no end?<br>
 When the poachers think themselves superior?
 </blockquote>
 
-## Mankey. The Pig Monkey Pokemon
+## Mankey. The Pig Monkey Pokémon
 
 ![hand-drawn artwork](/images/mankey.jpeg)
 

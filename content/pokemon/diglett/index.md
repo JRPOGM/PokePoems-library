@@ -23,7 +23,7 @@ Could we live in that world<br>
 Where the walls we put up are washed away?
 </blockquote>
 
-## Diglett, the Mole Pokemon
+## Diglett, the Mole Pokémon
 
 ![hand-drawn artwork](/images/diglett.jpeg)
 

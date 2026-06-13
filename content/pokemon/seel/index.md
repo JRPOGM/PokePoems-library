@@ -17,7 +17,7 @@ It will be months before I can see her again<br>
 So until then, I’ll take care of the peace-offered rose
 </blockquote>
 
-## Seel, the Sea Lion Pokemon
+## Seel, the Sea Lion Pokémon
 
 ![hand-drawn artwork](/images/seel.jpeg)
 

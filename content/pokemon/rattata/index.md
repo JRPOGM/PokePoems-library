@@ -12,7 +12,7 @@ All for their rat king<br>
 No more than hind ends sewn together
 </blockquote>
 
-## Rattata, the Mouse Pokemon
+## Rattata, the Mouse Pokémon
 
 ![hand-drawn artwork](/images/rattata.jpeg)
 

@@ -27,7 +27,7 @@ Is my mind protecting me from something in there?<br>
 Do I even want to know?
 </blockquote>
 
-## Psyduck, the Duck Pokemon
+## Psyduck, the Duck Pokémon
 
 ![hand-drawn artwork](/images/psyduck.jpeg)
 

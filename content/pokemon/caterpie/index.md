@@ -30,7 +30,7 @@ That is what they love you for<br>
 What they needed, an example to climb
 </blockquote>
 
-## Caterpie, the Worm Pokemon
+## Caterpie, the Worm Pokémon
 
 ![hand-drawn artwork](/images/caterpie.jpeg)
 

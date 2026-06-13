@@ -30,7 +30,7 @@ The difference between necessity and gorging<br>
 And I imagine your future could be better
 </blockquote>
 
-## Ekans, the Snake Pokemon
+## Ekans, the Snake Pokémon
 
 ![hand-drawn artwork](/images/ekans.jpeg)
 

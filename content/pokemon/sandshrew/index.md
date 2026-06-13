@@ -22,7 +22,7 @@ It is fought for<br>
 No matter the mountain placed in front of us
 </blockquote>
 
-## Sandshrew, the Mouse Pokemon
+## Sandshrew, the Mouse Pokémon
 
 ![hand-drawn artwork](/images/sandshrew.jpeg)
 

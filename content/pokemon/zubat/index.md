@@ -6,7 +6,7 @@ What and who surrounds you,<br>
 For who is there when you cry
 </blockquote>
 
-## Zubat, the Bat Pokemon
+## Zubat, the Bat Pokémon
 
 ![hand-drawn artwork](/images/zubat.jpeg)
 

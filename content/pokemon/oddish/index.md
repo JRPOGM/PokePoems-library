@@ -38,7 +38,7 @@ I know that smile will shine once more<br>
 These are just phases of a greater cycle
 </blockquote>
 
-## Oddish, the Weed Pokemon
+## Oddish, the Weed Pokémon
 
 ![hand-drawn artwork](/images/oddish.jpeg)
 

@@ -23,7 +23,7 @@ No dark-matter matters more<br>
 Than life
 </blockquote>
 
-## Gastly, the Gas Pokemon
+## Gastly, the Gas Pokémon
 
 ![hand-drawn artwork](/images/gastly.jpeg)
 

@@ -26,7 +26,7 @@ For the day people come to you<br>
 To leave with bouquets and baskets
 </blockquote>
 
-## Bulbasaur, the Seed Pokemon
+## Bulbasaur, the Seed Pokémon
 
 ![hand-drawn artwork](/images/bulbasaur.jpeg#left)
 

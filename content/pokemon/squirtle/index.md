@@ -29,7 +29,7 @@ Good luck to you, captain<br>
 May she sail the seven seas
 </blockquote>
 
-## Squirtle, the Tiny Turtle Pokemon
+## Squirtle, the Tiny Turtle Pokémon
 
 ![hand-drawn artwork](/images/squirtle.jpeg)
 

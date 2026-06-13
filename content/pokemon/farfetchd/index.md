@@ -20,7 +20,7 @@ From the blow of six million pages rolled into a single stick
 Nothing’s gonna S.A.V.E. them now
 </blockquote>
 
-## Farfetch’d, the Wild Duck Pokemon
+## Farfetch’d, the Wild Duck Pokémon
 
 ![hand-drawn artwork](/images/farfetchd.jpeg)
 

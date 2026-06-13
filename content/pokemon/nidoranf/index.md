@@ -27,7 +27,7 @@ She blows right past me<br>
 A testing, fang-filled smile my way
 </blockquote>
 
-## Nidoran♀, the Poison Pin Pokemon
+## Nidoran♀, the Poison Pin Pokémon
 
 ![hand-drawn artwork](/images/nidoranf.jpeg)
 

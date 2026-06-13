@@ -1,6 +1,6 @@
-# The PokePoems Dex
+# The PokéPoems Dex
 
-This is a vault of all [poems](), [artwork]() and [biographical data]() I have created over the past few months, focusing on the basic stage forms of [Pokemon]() from the first generation of games. This includes [sixty]()-[three]() different Pokemon all given their own treatment and themes, even if that isn’t [all of them.]()
+This is a vault of all [poems](), [artwork]() and [biographical data]() I have created over the past few months, focusing on the basic stage forms of [Pokémon]() from the first generation of games. This includes [sixty]()-[three]() different Pokémon all given their own treatment and themes, even if that isn’t [every pokemon.]()
 
 ## [Poems]()
 
@@ -28,6 +28,6 @@ This is a vault of all [poems](), [artwork]() and [biographical data]() I have c
 
 ### This Was A [Personal Project]()
 
-With Pokemon celebrating [thirty years]() since the launch of their first game and well over twenty of my own spent playing their [games](), collecting their [cards](), watching their [shows]() and [movies](), and listening to their [music](), I wanted to find a new way to express how this series has impacted and inspired me. In writing do I wish to pursue a future, so in writing things inspired by their world and every corner of it do I [pursue]().
+With Pokémon celebrating [thirty years]() since the launch of their first game and well over twenty of my own spent playing their [games](), collecting their [cards](), watching their [shows]() and [movies](), and listening to their [music](), I wanted to find a new way to express how this series has impacted and inspired me. In writing do I wish to pursue a future, so in writing things inspired by their world and every corner of it do I [pursue]().
 
 > All these poems and more have been and will be published on the website AllPoetry, under the pen name [JRPOGM]()

@@ -20,7 +20,7 @@ Beaten, bruised, battered and broken<br>
 All you have to do is stand
 </blockquote>
 
-## Geodude, the Rock Pokemon
+## Geodude, the Rock Pokémon
 
 ![hand-drawn artwork](/images/geodude.jpeg)
 

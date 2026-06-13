@@ -16,7 +16,7 @@ Or do not let them leave at all<br>
 And make sure the blood is not your own
 </blockquote>
 
-## Paras, the Mushroom Pokemon
+## Paras, the Mushroom Pokémon
 
 ![hand-drawn artwork](/images/paras.jpeg)
 

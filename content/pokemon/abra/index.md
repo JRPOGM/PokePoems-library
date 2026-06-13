@@ -18,7 +18,7 @@ Chest heaving, head pounding<br>
 There is no waking up from this
 </blockquote>
 
-## Abra, the Psi Pokemon
+## Abra, the Psi Pokémon
 
 ![hand-drawn artwork](/images/abra.jpeg)
 

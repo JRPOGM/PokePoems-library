@@ -19,7 +19,7 @@ So just get walking<br>
 No point getting lost in the count
 </blockquote>
 
-## Machop, the Superpower Pokemon
+## Machop, the Superpower Pokémon
 
 ![hand-drawn artwork](/images/machop.jpeg)
 

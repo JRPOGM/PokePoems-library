@@ -14,7 +14,7 @@ This dirt is your home<br>
 So Flourish
 </blockquote>
 
-## Bellsprout, the Flower Pokemon
+## Bellsprout, the Flower Pokémon
 
 ![hand-drawn artwork](/images/bellsprout.jpeg)
 

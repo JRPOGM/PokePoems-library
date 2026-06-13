@@ -28,7 +28,7 @@ Flimsy stories on a stick<br>
 Enjoyed at their time
 </blockquote>
 
-## Drowzee, the Hypnosis Pokemon
+## Drowzee, the Hypnosis Pokémon
 
 ![hand-drawn artwork](/images/drowzee.jpeg)
 

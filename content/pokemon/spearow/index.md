@@ -18,7 +18,7 @@ Wings outstretched to carry you into the sky<br>
 Is proof enough that you are as strong as they
 </blockquote>
 
-## Spearow, the Tiny Bird Pokemon
+## Spearow, the Tiny Bird Pokémon
 
 ![hand-drawn artwork](/images/spearow.jpeg)
 

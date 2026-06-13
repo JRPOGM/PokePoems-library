@@ -17,7 +17,7 @@ A left brain and a right brain<br>
 Put the world at peace of mind
 </blockquote>
 
-## Doduo, the Twin Bird Pokemon
+## Doduo, the Twin Bird Pokémon
 
 ![hand-drawn artwork](/images/doduo.jpeg)
 

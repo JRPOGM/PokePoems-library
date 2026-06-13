@@ -22,7 +22,7 @@ Will still burn, like the Sun<br>
 It’s men like you we need
 </blockquote>
 
-## Charmander, the Lizard Pokemon
+## Charmander, the Lizard Pokémon
 
 ![hand-drawn artwork](/images/charmander.jpeg)
 

@@ -35,7 +35,7 @@ I guess it wouldn’t be all that different.<br>
 I wonder if that worries the crab.
 </blockquote>
 
-## Krabby, the River Crab Pokemon
+## Krabby, the River Crab Pokémon
 
 ![hand-drawn artwork](/images/krabby.jpeg)
 

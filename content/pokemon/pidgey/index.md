@@ -23,7 +23,7 @@ I will protect this home until you do<br>
 For this will be the one tree they can’t chop down.
 </blockquote>
 
-## Pidgey, the Tiny Bird Pokemon
+## Pidgey, the Tiny Bird Pokémon
 
 ![hand-drawn artwork](/images/pidgey.jpeg)
 
