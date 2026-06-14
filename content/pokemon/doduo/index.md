@@ -25,4 +25,4 @@ Put the world at peace of mind
 
 > “_Most impressive is the Doduo’s speed. Both heads manage to balance their weight and cooperate as they run, hitting speeds up to sixty miles per hour and denting the dirt four inches deep they run on with their big feet. They can navigate themselves in any solid terrain, soft or sturdy, without being caught by any obstacles or traps thanks to both sets of eyes navigating their surroundings as they run. Despite the great strength and control with their feet, Doduo know no moves that utilize their legs in battle, avoiding to use them for anything other than their mobility._”
 
-[< Previous Poem](../farfetchd) [Home Page](/) [Next Poem >](../seel)
+<p style="text-align: center;">[< Previous Poem](../farfetchd) [Home Page](/) [Next Poem >](../seel)</p>
