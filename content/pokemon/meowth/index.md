@@ -21,4 +21,4 @@ I promise it’s you
 
 > “_Meowth is also one of the only Pokémon we know to have more than one regional variant across the world. In Alola, the Dark-type Meowth are high-class animals. Generations being gifted to royal families overseas have led to this Pokémon acting more prideful and aggressive, more protective of their self image and their possession than their Normal-type variant; though, if pampered well enough by their owners, they are more willing to share in their riches with their trainer. In Galar, a tougher, rugged, Steel-type breed of Meowth were bred by war and a seafarring life among humans. They’ve grown beard-like tuffs of fur as tough as iron, and their claws have strengthened to match. Their coins, still gold atop the head of the Alolan Meowth too, are instead a blackened color, and the darker they are signify greater strength and respect among their kind._”
 
-[< Previous Poem](../diglett) [Home Page](/) [Next Poem >](../psyduck)
+<p style="text-align: center;">[< Previous Poem](../diglett) [Home Page](/) [Next Poem >](../psyduck)</p>

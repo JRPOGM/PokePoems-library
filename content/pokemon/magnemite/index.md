@@ -35,4 +35,4 @@ To take me with you
 
 > “_But Magnemite are on their way to becoming an endangered species. Without more natural occurrences of highly-magnetic regions, like the Chargestone Caves of Unova, Magnemite’s main means of survival makes it an infestation to human society. The majority feed on man-made sources of electricity, and they have been a frequent problem causing blackouts for days at a time in many regions. To combat this problem, many source facilities of electricity have implemented technology that produces soundwaves only the Magnemite can hear and that drives them away. And as companies move bulks of powerlines inside cities underground, more and more societal resources of energy are being cut off from the Magnemite’s reach. Their population is shrinking a noticeable amount, and if a solution for healthy coexistence is not found, or if the species fails to evolve and adapt to these harsh conditions, we may find the Magnemite species disappear in due time._”
 
-[< Previous Poem](../slowpoke) [Home Page](/) [Next Poem >](../farfetchd)
+<p style="text-align: center;">[< Previous Poem](../slowpoke) [Home Page](/) [Next Poem >](../farfetchd)</p>

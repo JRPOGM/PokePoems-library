@@ -43,4 +43,4 @@ I wonder if that worries the crab.
 
 > “_The Krabby’s standout biological trait are their pincers, and pair of which they hoist proudly above their heads. It is believed the weight of these on either side of their body force the Krabby to walk sideways at all times; the trade-off of this is the incredible power and force the Pokémon can use them with, cutting through or keeping hold with a strong grip and crushing strength. They are also quite frail, as Krabby can lose their pincers in battle or in extraneous use, but they just as easily can grow a replacement within a few days and be back to normal in no time._”
 
-[< Previous Poem](../drowzee) [Home Page](/) [Next Poem >](../voltorb)
+<p style="text-align: center;">[< Previous Poem](../drowzee) [Home Page](/) [Next Poem >](../voltorb)</p>
