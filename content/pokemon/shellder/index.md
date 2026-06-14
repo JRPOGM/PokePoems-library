@@ -34,4 +34,4 @@ Wishing her smile had no effect at all
 
 > “_But their bodies serve more purposes beyond just their defensive means. Thanks to their enormous length and great dexterity, Shellder use their tongues to dig through the sands of seabeds to make holes, either to sleep in late at night or to hide in wait to catch prey swimming by with their tongue. When outrunning predators in water, Shellder flap their shells like fins to propel themselves backwards at impressively fast speeds. And their interior bodies can reform sand into pearls as it gets kicked between their bivalves and mixes with the internal fluids excreting from their soft flesh._”
 
-[< Previous Poem](../grimer) [Home Page](/) [Next Poem >](../gastly)
+<p style="text-align: center;">[< Previous Poem](../grimer) [Home Page](/) [Next Poem >](../gastly)</p>
