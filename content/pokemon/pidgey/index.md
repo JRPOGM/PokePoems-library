@@ -31,4 +31,4 @@ For this will be the one tree they can’t chop down.
 
 > “_They are also very intelligent creatures. Pidgey often stick close to the ground to hunt Caterpie and Weedle for food, stalking in the grass and using their wings to topple over either Bug Pokémon once they’re spotted. Their memory is also quite impressive, as Pidgey are able to remember and return to the locations of their nest without much trouble, no matter the distance within the same region; this is true for both wild and domesticated Pidgey, as their memory manages to constantly create a path backward from their starting location and recognize the cardinal directions and geographical landmarks to follow while in the air._”
 
-[< Previous Poem](../weedle) [Home Page](/) [Next Poem >](../rattata)
+<p style="text-align: center;">[< Previous Poem](../weedle) [Home Page](/) [Next Poem >](../rattata)</p>
