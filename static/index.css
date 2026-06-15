@@ -36,7 +36,8 @@ h4 {
   color: #ffffff;
 }
 ul {
-  border-bottom: 2px solid #e0a96d;
+  list-style-type: circle;
+  background-color: #c7c6c9;
 }
 blockquote {
   background-color: #c7c6c9;
