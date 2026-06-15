@@ -53,6 +53,14 @@ img {
   border: 3px solid #3c3c42;
   box-shadow: 3px 3px 6px #000;
 }
+a {
+  color: #000000;
+  text-decoration: none;
+}
+a:hover {
+  color: #e5f461;
+  border-color: #e5f461;
+}
 ::-webkit-scrollbar {
   width: 12px;
   height: 12px;
