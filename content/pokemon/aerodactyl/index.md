@@ -15,4 +15,4 @@ The poster boy of cutting your losses
 
 > “_These are also not the true form of Aerodactyl revived to perfect accuracy. Thanks to Mega Evolution in the hands of trusted trainers, we can witness a form of Aerodactyl whose dormant genetic code is awakened and covers their external skin in a multitude of sharp rocks. Scholars today believe this form is the true state of Aerodactyl, one we could not restore correctly with only the fraction of DNA preserved in amber; others detest this, as the power of Mega Evolution puts the Aerodactyl in a state of harm simply being transformed, and it is likely this is actually an overcorrection empowering the genetic material of animated amber and rock that bled into the fossil’s restoration process. Regardless, it has sparked the hypothesis for scientists that every fossil Pokémon may be an imperfect recreation of their original species, as the materials of their preservation could have made up space in the empty pockets of the retained DNA._”
 
-[< Previous Poem](../kabuto) [Home Page](/) [Next Poem >](../dratini)
+<p style="text-align: center;">[< Previous Poem](../kabuto) [Home Page](/) [Next Poem >](../dratini)</p>

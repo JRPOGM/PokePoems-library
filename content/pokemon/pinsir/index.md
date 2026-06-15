@@ -14,4 +14,4 @@ Keratin will reform into halos
 
 > “_Despite their aggressive and brutish nature in battle, all Pinsir really dreams about is taking to the skies. For generations Pinsir have been growing wings beneath the shells of their backs, though they’ve remained dormant and unable to use for most of recorded history. But with the powers of Mega Evolution, the Mega energy empowers their dormant wings and accelerates their growth in battle, giving the Pinsir the chance to fly. Though they are meant for fighting, as trainers who achieve the right and control over Mega Evolution pursue it in a battling career, the chance to fly fills many Pinsir with elation, and they will often be lost in glee soaring through the air until they are tired, even ignoring their trainer’s orders until their emotions have leveled out._”
 
-[< Previous Poem](../scyther) [Home Page](/) [Next Poem >](../tauros)
+<p style="text-align: center;">[< Previous Poem](../scyther) [Home Page](/) [Next Poem >](../tauros)</p>

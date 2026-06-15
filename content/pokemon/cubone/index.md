@@ -20,4 +20,4 @@ Together again, with you
 
 > “_As the Cubone gets older they continue to grow into the skull, fitting within its hollow space. They will never take off their mother’s skull, not even when they eat, sleep or clean themselves; in some cases of large Cubone, it is because they’ve become so large that the skulls cannot be safely and simply removed. Any cracks seen beneath the eye sockets are from the tears of the Cubone after many months removed from their mother’s passing. But it is also through this process that Cubone teach themselves to come to terms with their mother’s passing, accepting their once powerlessness to save them and the strength they’ve gained over years surviving on their own in the wild or with others; it seems this is the mental conclusion a Cubone must come to if it ever wishes to evolve into a Marowak itself._”
 
-[< Previous Poem](../exeggcute) [Home Page](/) [Next Poem >](../lickitung)
+<p style="text-align: center;">[< Previous Poem](../exeggcute) [Home Page](/) [Next Poem >](../lickitung)</p>
