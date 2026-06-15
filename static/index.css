@@ -35,6 +35,9 @@ h4 {
   font-size: 1em;
   color: #ffffff;
 }
+ul {
+  border-bottom: 2px solid #e0a96d;
+}
 blockquote {
   background-color: #c7c6c9;
   border-radius: 6px;
