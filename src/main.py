@@ -297,9 +297,9 @@ def main():
         template_path_2,
         os.path.join(direct_path_public, "secrets/chansey/index.html"))
     generate_page(
-        os.path.join(direct_path_content, "secrets/mr_mime/index.md"),
+        os.path.join(direct_path_content, "secrets/mrmime/index.md"),
         template_path_2,
-        os.path.join(direct_path_public, "secrets/mr_mime/index.html"))
+        os.path.join(direct_path_public, "secrets/mrmime/index.html"))
     generate_page(
         os.path.join(direct_path_content, "secrets/jynx/index.md"),
         template_path_2,
