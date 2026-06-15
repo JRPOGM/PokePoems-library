@@ -1,4 +1,4 @@
-### The Point of Importance
+# The Point of Importance
 
 <blockquote>
 Who gives you your importance?
