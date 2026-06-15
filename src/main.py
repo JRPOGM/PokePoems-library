@@ -276,5 +276,69 @@ def main():
         os.path.join(direct_path_content, "secrets/pikachu/index.md"),
         template_path_2,
         os.path.join(direct_path_public, "secrets/pikachu/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/clefairy/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/clefairy/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/jigglypuff/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/jigglypuff/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/hitmonlee/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/hitmonlee/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/hitmonchan/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/hitmonchan/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/chansey/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/chansey/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/mr_mime/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/mr_mime/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/jynx/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/jynx/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/electabuzz/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/electabuzz/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/magmar/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/magmar/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/snorlax/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/snorlax/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/articuno/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/articuno/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/moltres/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/moltres/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/zapdos/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/zapdos/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/mewtwo/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/mewtwo/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/mew/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/mew/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/reasons/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/reasons/index.html"))
 
 main()
