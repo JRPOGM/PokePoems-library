@@ -3,7 +3,7 @@ body {
   color: #000000;
   font-family: "Luminari", "Georgia", serif;
   line-height: 1.7;
-  max-width: 1200px;
+  max-width: 900px;
   text-align: center;
   margin: 0;
   padding: 20px;
@@ -23,7 +23,6 @@ h5,
 h6 {
   text-align: center;
   color: #000000;
-  width: 1200px;
   margin-top: 24px;
   margin-bottom: 16px;
 }
@@ -84,7 +83,6 @@ pre {
 blockquote {
   background-color: #2e2c35;
   padding-left: 1em;
-  width: 900px;
   margin-left: 0;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
