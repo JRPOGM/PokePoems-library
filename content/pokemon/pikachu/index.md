@@ -1,5 +1,3 @@
-<link href="/secret.css" rel="stylesheet" />
-
 ### The Point of Importance
 
 <blockquote>
