@@ -9,4 +9,4 @@ Knowing I’m not alone in the world
 
 ## Jigglypuff, Secret 3 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>

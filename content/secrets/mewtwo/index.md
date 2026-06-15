@@ -16,4 +16,4 @@ Or has it beaten the odds?
 
 ## Mewtwo, Secret 15 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>

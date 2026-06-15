@@ -8,4 +8,4 @@ Now all we have left is open space with nothing to fill their place
 
 ## Chansey, Secret 6 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>

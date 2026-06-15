@@ -15,4 +15,4 @@ A language anyone can speak
 
 ## Jynx, Secret 8 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>

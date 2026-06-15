@@ -12,4 +12,4 @@ We would not let the other go
 
 ## Moltres, Secret 14 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>

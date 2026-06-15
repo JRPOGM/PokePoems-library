@@ -17,4 +17,4 @@ Not when my world is on fire too
 
 ## Magmar, Secret 10 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>

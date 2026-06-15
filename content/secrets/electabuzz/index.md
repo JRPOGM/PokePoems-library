@@ -24,4 +24,4 @@ And the train makes a mad dash with the money
 
 ## Electabuzz, Secret 9 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>

@@ -16,4 +16,4 @@ Because I do not need to move to go where I wish
 
 ## Hitmonlee, Secret 4 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>

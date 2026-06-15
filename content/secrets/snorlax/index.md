@@ -12,4 +12,4 @@ Revelling that humanity has died
 
 ## Snorlax, Secret 11 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>

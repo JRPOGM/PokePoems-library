@@ -12,4 +12,4 @@ As does she
 
 ## Articuno, Secret 12 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>

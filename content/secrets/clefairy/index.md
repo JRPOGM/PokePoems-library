@@ -25,4 +25,4 @@ The microorganisms that danced in her eyes
 
 ## Clefairy, Secret 2 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>

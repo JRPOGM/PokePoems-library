@@ -21,4 +21,4 @@ Who does that make the lesser?
 
 ## Mew, Secret 16 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>

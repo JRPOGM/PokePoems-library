@@ -19,4 +19,4 @@ I don’t plan on leaving here.
 
 ## Mr. Mime, Secret 7 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>

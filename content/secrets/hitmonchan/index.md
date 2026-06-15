@@ -11,4 +11,4 @@ Until you’re certain digits can communicate no more
 
 ## Hitmonchan, Secret 5 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>

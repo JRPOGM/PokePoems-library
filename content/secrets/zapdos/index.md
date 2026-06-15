@@ -12,4 +12,4 @@ Jolts my heart to life
 
 ## Zapdos, Secret 13 of 16
 
-[Home Page](/)
+<p style="text-align: center;">[Home Page](/)</p>
