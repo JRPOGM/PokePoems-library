@@ -8,7 +8,7 @@ direct_path_static = "./static"
 direct_path_public = "./public"
 direct_path_content = "./content"
 template_path = "./template.html"
-template_path_2 = ".template2.html"
+template_path_2 = "./template2.html"
 
 def main():
     print("Deleting public directory...")
