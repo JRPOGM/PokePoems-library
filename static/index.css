@@ -1,6 +1,7 @@
 body {
 background-color: #f0e4a1;
 	background-image: None;
+  max-width: 900px;
 	margin-left: auto;
 	margin-right: auto;
 	font-family: "Luminari", "Georgia", serif;
