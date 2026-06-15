@@ -183,5 +183,93 @@ def main():
         os.path.join(direct_path_content, "pokemon/voltorb/index.md"),
         template_path,
         os.path.join(direct_path_public, "pokemon/voltorb/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/exeggcute/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/exeggcute/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/cubone/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/cubone/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/lickitung/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/lickitung/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/koffing/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/koffing/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/rhyhorn/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/rhyhorn/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/tangela/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/tangela/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/kangaskhan/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/kangaskhan/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/horsea/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/horsea/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/goldeen/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/goldeen/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/staryu/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/staryu/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/scyther/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/scyther/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/pinsir/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/pinsir/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/tauros/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/tauros/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/magikarp/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/magikarp/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/lapras/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/lapras/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/ditto/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/ditto/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/eevee/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/eevee/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/porygon/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/porygon/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/omanyte/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/omanyte/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/kabuto/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/kabuto/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/aerodactyl/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/aerodactyl/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/dratini/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/dratini/index.html"))
 
 main()
