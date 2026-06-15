@@ -5,7 +5,6 @@ body {
   line-height: 1.7;
   margin: 0;
   padding: 20px;
-  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -22,6 +21,7 @@ h5,
 h6 {
   text-align: center;
   color: #000000;
+  max-width: 1200px;
   margin-top: 24px;
   margin-bottom: 16px;
 }
@@ -57,6 +57,7 @@ a:hover {
 ul,
 ol {
   padding-left: 30px;
+  max-width: 900px;
 }
 
 code {
@@ -81,6 +82,7 @@ pre {
 
 blockquote {
   padding-left: 1em;
+  max-width: 900px;
   margin-left: 0;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
