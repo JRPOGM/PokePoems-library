@@ -1,6 +1,6 @@
 # The Son and The Soil
 
-<p>
+<blockquote>
 There are many things you are born without<br>
 Notions and understandings<br>
 Knowledge and feeling<br>
@@ -24,7 +24,7 @@ Flourish, little land<br>
 Let your pollen draw in the swarm<br>
 For the day people come to you<br>
 To leave with bouquets and baskets
-</p>
+</blockquote>
 
 ## Bulbasaur, the Seed Pokémon
 
