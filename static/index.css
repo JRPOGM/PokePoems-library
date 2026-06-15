@@ -22,18 +22,22 @@ h6 {
 h1 {
 	font-size: 3em;
 	color: #ff0000;
+  border-bottom: 2px solid #ff3c00;
 }
 h2 {
 	font-size: 2em;
-	color: #09d81b;
+	color: #1b8d24;
+  border-bottom: 2px solid #10e422;
 	}
 h3 {
 	font-size: 3em;
 	color: #ffffff;
+  border-bottom: 2px solid #ffffff;
 }
 h4 {
   font-size: 1em;
   color: #ffffff;
+  border-bottom: 2px solid #ffffff;
 }
 ul {
   list-style-type: circle;
