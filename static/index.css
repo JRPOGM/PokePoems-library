@@ -41,7 +41,7 @@ blockquote {
   border: 3px solid #000000;
   box-shadow: 3px 3px 6px #000;
   padding-left: 1em;
-  margin-left: 0;
+  padding-left: 0.5em;
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   padding-right: 0.5em;
