@@ -1,6 +1,6 @@
 # The PokéPoems Dex
 
-This is a vault of all [poems](), [artwork]() and [biographical data]() I have created over the past few months, focusing on the basic stage forms of [Pokémon]() from the first generation of games. This includes [sixty]()-[three]() different Pokémon all given their own treatment and themes, even if that isn’t [every Pokémon.]()
+This is a vault of all [poems](/pokemon/pikachu), [artwork]() and [biographical data]() I have created over the past few months, focusing on the basic stage forms of [Pokémon]() from the first generation of games. This includes [sixty]()-[three]() different Pokémon all given their own treatment and themes, even if that isn’t [every Pokémon.]()
 
 ## Poems
 
