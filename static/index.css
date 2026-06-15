@@ -47,6 +47,12 @@ blockquote {
   color: #000000;
   font-family: serif;
 }
+footer {
+  text-align: center;
+  padding: 5px;
+  background-color: #abbaba;
+  color: black;
+}
 img {
   max-width: 100%;
   height: auto;
