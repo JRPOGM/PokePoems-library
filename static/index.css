@@ -1,9 +1,9 @@
 body {
-background-color: #
-	background-image:
-	margin-left:
-	margin-right:
-	font-family:
+background-color: #f0e4a1;
+	background-image: None;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Luminari", "Georgia", serif;
 	line-height: 1.6;
 	}
 h1,
@@ -13,20 +13,24 @@ h4,
 h5,
 h6 {
 	text-align:center;
-	margin-top:
-	margin-bottom:
+	margin-top: 24px;
+	margin-bottom: 24px;
 	}
 h1 {
-	font-size:
-	color: #
+	font-size: 3em;
+	color: #ff0000;
 }
 h2 {
-	font-size:
-	color: #
+	font-size: 2em;
+	color: #09d81b;
 	}
 h3 {
-	font-size:
-	color: #
+	font-size: 3em;
+	color: #ffffff;
+}
+h4 {
+  font-size: 1em;
+  color: #ffffff;
 }
 blockquote {
   background-color: #2e2c35;
