@@ -8,6 +8,7 @@ direct_path_static = "./static"
 direct_path_public = "./public"
 direct_path_content = "./content"
 template_path = "./template.html"
+template_path_2 = ".template2.html"
 
 def main():
     print("Deleting public directory...")
@@ -271,5 +272,9 @@ def main():
         os.path.join(direct_path_content, "pokemon/dratini/index.md"),
         template_path,
         os.path.join(direct_path_public, "pokemon/dratini/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "secrets/pikachu/index.md"),
+        template_path_2,
+        os.path.join(direct_path_public, "secrets/pikachu/index.html"))
 
 main()
