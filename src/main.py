@@ -271,5 +271,9 @@ def main():
         os.path.join(direct_path_content, "pokemon/dratini/index.md"),
         template_path,
         os.path.join(direct_path_public, "pokemon/dratini/index.html"))
+    generate_page(
+        os.path.join(direct_path_content, "pokemon/pikachu/index.md"),
+        template_path,
+        os.path.join(direct_path_public, "pokemon/pikachu/index.html"))
 
 main()
