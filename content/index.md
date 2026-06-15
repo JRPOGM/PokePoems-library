@@ -1,5 +1,6 @@
 # The PokéPoems Dex
-<footer>By JRPOGM</footer>
+<p style="text-align: center;">By JRPOGM</p>
+
 
 In 1996, Game Freak released _Pokémon Red Version_ and _Pokémon Green Version_, a pair of compatible games that were to be the first video game entries into a universe known as _Pokémon_. These games, along with their third and fourth variants of _Blue Version_ and [_Yellow Version_](/secrets/pikachu), became one of the best-selling video games of all time, igniting a franchise that has lived on for decades and continues to grow and expand its own [universe](/secrets/clefairy) year after year. The _Pokémon_ franchise explored and overtook other forms of media as well, developing several animation series, trading cards, comic volumes, various kinds of merchandise and spin-off video game series under the _Pokémon_ name.
 
