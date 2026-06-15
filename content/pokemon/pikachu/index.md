@@ -1,8 +1,4 @@
-# You Found A Secret!
-
-## Pikachu, the Mouse Pokémon
-
-### The Point of Importance
+# The Point of Importance
 
 <blockquote>
 Who gives you your importance?
@@ -37,6 +33,6 @@ Not in your place in the overlap<br>
 But the outstanding sliver you bring to life
 </blockquote>
 
-#### Pikachu, Secret 1 of 16
+## Pikachu, Secret 1 of 16
 
 <p style="text-align: center;">[Home Page](/)</p>
