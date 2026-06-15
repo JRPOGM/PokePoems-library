@@ -4,6 +4,7 @@
 
 ## Poems
 
+<p>
 - [The Son and The Soil](/pokemon/bulbasaur) - [The Burning Man](/pokemon/charmander) - [Shell of Theseus](/pokemon/squirtle)
 - [You’re a Growing Boy](/pokemon/caterpie) - [Hungry, Hungry Caterpillar](/pokemon/weedle) - [Be Careful, Little Birdie](/pokemon/pidgey)
 - [Rat Pak](/pokemon/rattata) - [Just The Way You Are](/pokemon/spearow) - [Looking Out for the Little Ones](/pokemon/ekans)
@@ -25,6 +26,7 @@
 - [Strength of a Dragon](/pokemon/magikarp) - [Ferrying the People](/pokemon/lapras) - [Masquerade](/pokemon/ditto)
 - [Secrets of the Universe](/pokemon/eevee) - [Digital Footprints on the Moon](/pokemon/porygon) - [An Endless Shroud of Mystery](/pokemon/omanyte)
 - [To Be Human is To Be Durable](/pokemon/kabuto) - [Jaws of Life](/pokemon/aerodactyl) - [Layers of Mankind](/pokemon/dratini)
+</p>
 
 ## This Was A Personal Project
 
