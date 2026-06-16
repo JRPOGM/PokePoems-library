@@ -25,4 +25,4 @@ So until then, I’ll take care of the peace-offered rose
 
 > “_Also notable to all Seel is the horn atop their heads, the same color as their fur and standing no taller than a few inches off their domes. Seel use their horns to pierce through their prey Shellder with ease, chasing the fellow sea critter beneath the ice caps. They can also use their horns to chip through the ice, creating pockets inside icebergs or breaking the layers above the water for a chance to breathe air in between their hunts._”
 
-<p style="text-align: center;">[< Previous Poem](../doduo) [Home Page](/) [Next Poem >](../grimer)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../doduo) [Home Page](/) [Next Poem >](../grimer)</p>

@@ -27,4 +27,4 @@ Do you believe it feels at all?
 
 > “_That does not mean a Tentacool is weak. The Jellyfish Pokémon carries a poison in its body, making up the remainder of the Pokémon’s body not made of water, and they disperse these through the ends of their two feelers. Though this poison is not toxic enough to kill, it is enough to weaken and even paralyze enemies and prey for it to sink its teeth into. And from the orb on its forehead and its crystal-like eyes, they can fire weak Psychic-energy beams to handle enemies who are immune to their poison. It is advised only trained professionals and seasoned Pokémon Trainers approach these Pokémon to avoid falling prey to their attacks._”
 
-<p style="text-align: center;">[< Previous Poem](../bellsprout) [Home Page](/) [Next Poem >](../geodude)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../bellsprout) [Home Page](/) [Next Poem >](../geodude)</p>

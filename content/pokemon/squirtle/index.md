@@ -37,4 +37,4 @@ May she sail the seven seas
 
 > “_Beyond swimming, a Squirtle’s shell is also incredibly tough when fully grown. In wild battles, Squirtles are more reactionary creatures than instigators, so they will primarily use their shells to harmlessly block and parry most attacks. Their Water-type attacks can still be powerful, but many Squirtle learn to tucker out the energy of their attackers first with their defensive capabilities before they go on the offensive themselves._”
 
-<p style="text-align: center;">[< Previous Poem](../charmander) [Home Page](/) [Next Poem >](../caterpie)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../charmander) [Home Page](/) [Next Poem >](../caterpie)</p>

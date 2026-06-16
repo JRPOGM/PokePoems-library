@@ -35,4 +35,4 @@ Pretending it’s according to plan
 
 > “_Like the Caterpie, though, Weedle do have massive appetites. Though harder to train as a domesticated Pokémon, the species does have a similar ease of growth and evolution to match its counterpart, and as a wild species this is indicated by their even greater appetite for a thousand leaves every day. But Weedle are far pickier eaters than the Caterpie, requiring the leaves of specific flora to appease their stomachs; certain Pokémon foods have been developed to match these most known flavors the Weedle species prefers. If they cannot rely on man-made food, though, the Weedle species do have an evolved sense of smell specifically for this case, able to parse the aroma of plants from one another and find those that they would prefer to eat._”
 
-<p style="text-align: center;">[< Previous Poem](../caterpie) [Home Page](/) [Next Poem >](../pidgey)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../caterpie) [Home Page](/) [Next Poem >](../pidgey)</p>

@@ -26,4 +26,4 @@ Is proof enough that you are as strong as they
 
 > “_They are, too, a more aggressive and brave Pokémon than others, and they tend to group in sizable flocks wherever they go. When faced with any opponent larger than them, Spearow let out a rallying screech of a cry that not only aims to disorient their attacker but to alert the flock to their location, turning the balance of power and numbers in the battle in their favor. This is often how the Spearow mark and claim their territory, and has made the Pokémon line a famous choice for farmers to protect their land from wandering Bugs and other Pokémon that threaten their crops._”
 
-<p style="text-align: center;">[< Previous Poem](../rattata) [Home Page](/) [Next Poem >](../ekans)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../rattata) [Home Page](/) [Next Poem >](../ekans)</p>

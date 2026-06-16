@@ -34,4 +34,4 @@ Do you feel the tip of your words can reach the other man?
 
 > “_The blades that make up these Pokémon’s forearms are sharp and deadly like no other. At a young age, Scyther go into the mountains in packs to train their blades on the rocks, sharpening and strengthening them until they slice through boulders with relative ease. They can cut through the air faster than the eye can see, chop through thick trees in a single swing, and dice their opponents and prey in seconds flat._”
 
-<p style="text-align: center;">[< Previous Poem](../staryu) [Home Page](/) [Next Poem >](../pinsir)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../staryu) [Home Page](/) [Next Poem >](../pinsir)</p>
