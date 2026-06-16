@@ -23,15 +23,11 @@ h1 {
 	font-size: 3em;
 	color: #ff0000;
   border-bottom: 2px solid #ff3c00;
-  -webkit-text-fill-color: transparent;
-  -webkit-text-stroke: 1px;
 }
 h2 {
 	font-size: 2em;
 	color: #1b8d24;
   border-bottom: 2px solid #10e422;
-  -webkit-text-fill-color: transparent;
-  -webkit-text-stroke: 1px;
 }
 ul {
   list-style-type: circle;
@@ -42,7 +38,7 @@ ul {
   box-shadow: 3px 3px 6px #000;
 }
 blockquote {
-  background-color: #000000;
+  background-color: #365bff;
   border-radius: 6px;
   border: 3px solid #3c3c42;
   box-shadow: 3px 3px 6px #000000;
