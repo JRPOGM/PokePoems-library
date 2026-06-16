@@ -38,7 +38,7 @@ ul {
   box-shadow: 3px 3px 6px #000;
 }
 blockquote {
-  background-color: #365bff;
+  background: rgba(34, 117, 241, 0.5);
   border-radius: 6px;
   border: 3px solid #3c3c42;
   box-shadow: 3px 3px 6px #000000;
