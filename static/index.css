@@ -77,7 +77,7 @@ img {
   gap: 20px;
 }
 .data img {
-  width: 300px;
+  width: 100%;
   height: auto;
 }
 a {
