@@ -38,4 +38,4 @@ And I imagine your future could be better
 
 > “_For a species of anywhere between six to eight feet in length, Ekans are also surprisingly agile and quiet. Due to their size, they mostly populate in regions with waist-high grassy fields to sneak unobserved by their prey and nearby predators. With their tongues, Ekans can track the scents of nearby creatures, allowing them to redirect themselves to or from a target without having to lay eyes on them either. The most frequent sightings of Ekans are around trees, as they will wrap themselves around the trunks while they sleep, or around branches as they wait nearby the nests of bird Pokémon to learn their comings and goings._”
 
-<p style="text-align: center;">[< Previous Poem](../spearow) [Home Page](/) [Next Poem >](../sandshrew)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../spearow) [Home Page](/) [Next Poem >](../sandshrew)</p>

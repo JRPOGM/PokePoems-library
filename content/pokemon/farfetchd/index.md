@@ -28,4 +28,4 @@ Nothing’s gonna S.A.V.E. them now
 
 > “_Interestingly, there is a variant species of the Farfetch’d in the region of Galar, though their population numbers are also quite low. This Fighting-type Farfetch’d carry even tougher, larger sticks than their Normal-and-Flying-type counterpart, training rigorously with them to perfect their swordsman ship. And unlike their variant, these Farfetch’d are capable of achieving evolution after mastering their green onion blades in back-to-back battles, becoming the bigger and more powerful Sirfetch’d._”
 
-<p style="text-align: center;">[< Previous Poem](../magnemite) [Home Page](/) [Next Poem >](../doduo)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../magnemite) [Home Page](/) [Next Poem >](../doduo)</p>

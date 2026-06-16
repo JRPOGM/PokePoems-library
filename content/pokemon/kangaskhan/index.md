@@ -25,4 +25,4 @@ To see the world ahead of them, together
 
 > “_The hardest thing a Kangaskhan can do is say goodbye to its child. A day comes for all growing Kangaskhan that they will be too old to live in their mother’s pouch, and it will be expected of them to journey out into the world and find a family of their own. As childless Kangaskhan are a rare sight in the wild, it is believed they look for a child to take care once their own has finally grown up, be it by mothering orphaned and lost Pokémon or by finding a mate in which to have another child to care for. It is uncertain how long a Kangaskhan can live on their own without a child._”
 
-<p style="text-align: center;">[< Previous Poem](../tangela) [Home Page](/) [Next Poem >](../horsea)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../tangela) [Home Page](/) [Next Poem >](../horsea)</p>

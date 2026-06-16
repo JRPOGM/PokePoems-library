@@ -36,4 +36,4 @@ Enjoyed at their time
 
 > “_This doesn’t mean Drowzee are mean-spirited in nature, attempting to rob people of their good feelings. While the people whose dreams Drowzee eat are not remembered by them, this doesn’t bring harm to any person or Pokémon they do this to. Drowzee are actually very trusted Pokémon around recreational facilities and younger education schools, playing with young children so they enjoy their days before putting them into nap time for the Pokémon to feed; Drowzee do not like the dreams of adults compared to the dreams of children, likely because of societal factors that have led to stress and fatigue in older demographics in recent years._”
 
-<p style="text-align: center;">[< Previous Poem](../onix) [Home Page](/) [Next Poem >](../krabby)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../onix) [Home Page](/) [Next Poem >](../krabby)</p>

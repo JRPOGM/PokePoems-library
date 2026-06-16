@@ -34,4 +34,4 @@ And the world keeps spinning, and fear is proved wrong
 
 > “_It is their ability to swim backwards that gives Horsea a means to defend themselves. In moments of danger, swimming backwards at high speeds gives them the ability to see their attackers and strike back, spitting ink or Water-type attacks from their mouths to blind or wound their opponents and make for a cleaner getaway. This is effective for both land and sea Pokémon attempting to do them harm, and with the ability to see behind them thanks to the position of their eyes on either side of their head, they can often avoid being caught from their blind spots._”
 
-<p style="text-align: center;">[< Previous Poem](../kangaskhan) [Home Page](/) [Next Poem >](../goldeen)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../kangaskhan) [Home Page](/) [Next Poem >](../goldeen)</p>

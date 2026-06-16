@@ -23,4 +23,4 @@ Why not put in the work so the ferry doesn’t become the safest place to be?
 
 > “_Their good nature was the reason this Pokémon was hunted to near extinction. Many poachers and violent wild Pokémon took advantage of Lapras’ kind offers to capture and run off with them, destroying many pods and diminishing the wildlife population to the point it became as rare to encounter one in the wild as the Dragonite species. But in recent years, wildlife preservationists and marine institutions globally have initiated a movement to not only protect Lapras in the wild from future poaching, but to breed and release new Lapras to keep the species from disappearing entirely; now, Lapras’ reintroduction into many ecosystems is upsetting the fish Pokémon population attempting to take over in their place._”
 
-<p style="text-align: center;">[< Previous Poem](../magikarp) [Home Page](/) [Next Poem >](../ditto)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../magikarp) [Home Page](/) [Next Poem >](../ditto)</p>

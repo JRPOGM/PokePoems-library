@@ -28,4 +28,4 @@ All you have to do is stand
 
 > “_This includes the Geodude found on the islands of Alola. These Geodude lose their Ground typing to instead be an Electric type alongside their other Rock typing, and their bodies are made of a magnetic rock that catches iron sand to their exterior. They butt heads with each other in challenge too, though they test the magnetic strength of each other instead of their durability. This is how the Alolan Geodude normally fights, tackling its opponents and dispersing a minor shock for extra damage. Both variants of the Geodude share the same anti-gravity electromagnetism that keeps their bodies above the ground, though this does not mean they can fly; Geodude can only raise so far above any surface before the signal between their bodies and a floor are too far apart for their anti-gravity to work._”
 
-<p style="text-align: center;">[< Previous Poem](../tentacool) [Home Page](/) [Next Poem >](../ponyta)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../tentacool) [Home Page](/) [Next Poem >](../ponyta)</p>

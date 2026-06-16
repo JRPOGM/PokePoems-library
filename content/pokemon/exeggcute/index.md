@@ -33,4 +33,4 @@ The people who pay it attention really do care
 
 > “_But the Pokémon has never grown out of this misconception of being called an ‘egg’ Pokémon. Many trainers and biologists still refer to the species by their categorical name even in professional settings, despite the fact modern research has already proved the Exeggcute to be more seed-like than egg-like. Any attempts at legislation to amend this error and refer to the Pokémon correctly continue to be shot down by lobbyists for many agricultural groups._”
 
-<p style="text-align: center;">[< Previous Poem](../voltorb) [Home Page](/) [Next Poem >](../cubone)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../voltorb) [Home Page](/) [Next Poem >](../cubone)</p>

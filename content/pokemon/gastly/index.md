@@ -31,4 +31,4 @@ Than life
 
 > “_Otherwise, the gas that makes their body is also their strongest weapon. Because their bodies have no solid form, they can spread their bodies to encompass a wider area without feeling torn apart, enveloping their opponents and exposing them to a poisonous substance within their gas. This poison is so powerful that even Copperajah, a Steel-type normally immune to Poison-type attacks, can be subdued within just a few seconds. If Gastly so wish, they can control the dosage of this exposure to seep through the skin of their prey to kill them before feeding._”
 
-<p style="text-align: center;">[< Previous Poem](../shellder) [Home Page](/) [Next Poem >](../onix)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../shellder) [Home Page](/) [Next Poem >](../onix)</p>
