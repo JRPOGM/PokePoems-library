@@ -32,7 +32,7 @@ h2 {
 ul {
   list-style-type: circle;
   text-align: center;
-  background-color: #c7c6c9;
+  background-color: #365bff;
   border-radius: 6px;
   border: 3px solid #3c3c42;
   box-shadow: 3px 3px 6px #000;
@@ -52,7 +52,7 @@ blockquote {
 }
 footer {
   text-align: center;
-  background-color: #abbaba;
+  background-color: #365bff;
   color: black;
 }
 img {
