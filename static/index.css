@@ -71,6 +71,9 @@ img {
   border: 3px solid #3c3c42;
   box-shadow: 3px 3px 6px #000;
 }
+.data {
+  float: left;
+}
 a {
   color: #000000;
   text-decoration: none;
