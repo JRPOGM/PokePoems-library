@@ -1,5 +1,5 @@
 body {
-  background-color: #648bf7;
+  background-color: #ffffff;
 	background-image: None;
   max-width: 900px;
 	margin-left: auto;
@@ -23,11 +23,15 @@ h1 {
 	font-size: 3em;
 	color: #ff0000;
   border-bottom: 2px solid #ff3c00;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 1px;
 }
 h2 {
 	font-size: 2em;
 	color: #1b8d24;
   border-bottom: 2px solid #10e422;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 1px;
 }
 ul {
   list-style-type: circle;
@@ -38,10 +42,10 @@ ul {
   box-shadow: 3px 3px 6px #000;
 }
 blockquote {
-  background-color: #c7c6c9;
+  background-color: #000000;
   border-radius: 6px;
   border: 3px solid #3c3c42;
-  box-shadow: 3px 3px 6px #000;
+  box-shadow: 3px 3px 6px #000000;
   padding-left: 1em;
   padding-left: 0.5em;
   padding-top: 0.5em;
