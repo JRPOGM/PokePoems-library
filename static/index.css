@@ -22,6 +22,7 @@ h6 {
 h1 {
 	font-size: 3em;
   font-weight: bolder;
+  -webkit-text-stroke: .5px #000000;
 	color: #ff0000;
   background: rgba(0, 102, 255, 0.85);
   border: 3px solid;
