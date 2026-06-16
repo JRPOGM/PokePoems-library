@@ -23,14 +23,14 @@ h1 {
 	font-size: 3em;
   font-weight: bolder;
 	color: #ff0000;
-  -webkit-text-stroke: 0.5px #000000;
+  background-color: #e5f461;
   border-bottom: 2px solid #ff3c00;
 }
 h2 {
 	font-size: 2em;
   font-weight: bolder;
 	color: #1b8d24;
-  -webkit-text-stroke: 0.5px #000000;
+  background-color: #e5f461;
   border-bottom: 2px solid #10e422;
 }
 ul {
