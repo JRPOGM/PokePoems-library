@@ -71,15 +71,6 @@ img {
   border: 3px solid #3c3c42;
   box-shadow: 3px 3px 6px #000;
 }
-.data {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-}
-.data img {
-  width: 100%;
-  height: auto;
-}
 a {
   color: #000000;
   text-decoration: none;
