@@ -38,4 +38,4 @@ What they needed, an example to climb
 
 > “_The Caterpie is no less impressive of a Pokémon for its size and attitude. Many fledgling Pokémon Trainers use one for a time on their teams, thanks to how fast the species grows and evolves into a Metapod and then into Butterfree; they can quickly become a good battler for young Trainer’s earliest matches. In the wild, they can stick to and climb most surfaces without expending energy to do so thanks to the equilibrium of their biology. And for an appetite, Caterpie can eat up to one hundred leaves in a single day, trying to build up mass that helps contribute to their quick pace of evolution._”
 
-<p style="text-align: center;">[< Previous Poem](../squirtle) [ Home Page](/) [Next Poem >](../weedle)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../squirtle) [ Home Page](/) [Next Poem >](../weedle)</p>

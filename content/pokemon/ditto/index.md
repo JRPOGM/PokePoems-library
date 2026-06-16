@@ -25,4 +25,4 @@ And the gullible don’t care
 
 > “_But this transformation ability is limited by the Ditto’s perception in the moment. Ditto do not have a reliable enough memory to recreate those not standing in front of it, so any random transformation ends up flawed and noticeable. Laughter can also make them lose control and revert their forms back into their pudgy state. And while they can use the attacks of other Pokémon, Ditto can only manage to repeat their attacks a few times themselves before the type energy their body is trying to replicate gives out and becomes useless._”
 
-<p style="text-align: center;">[< Previous Poem](../lapras) [Home Page](/) [Next Poem >](../eevee)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../lapras) [Home Page](/) [Next Poem >](../eevee)</p>

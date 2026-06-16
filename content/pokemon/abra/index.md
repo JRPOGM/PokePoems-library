@@ -26,4 +26,4 @@ There is no waking up from this
 
 > “_Of all its powers, Abra are most known for their teleportation. Very few species in the world are actually capable of this power, and the Psi Pokémon still manages to do this even as it sleeps. It uses this mostly defensively, avoiding confrontations of even non-volatile nature, blinking from spot to spot as though it were traveling; this does lead to Abra being quite scared when they wake up in a place that is not where they fell asleep before, feeling lost as they try to navigate the real world and parse it from their dreams. But even awake, teleportation and self-telekinesis are how this Pokémon gets around, constantly floating over the ground and disappearing instead of walking. Abra are known to rarely use their arms or legs for anything, leading to the species having quite weak muscles even into their evolved states of Kadabra and Alakazam._”
 
-<p style="text-align: center;">[< Previous Poem](../poliwag) [Home Page](/) [Next Poem >](../machop)<p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../poliwag) [Home Page](/) [Next Poem >](../machop)<p>
