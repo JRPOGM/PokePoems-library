@@ -20,4 +20,4 @@ No more than hind ends sewn together
 
 > “_The regional variant of Rattata found in Alola have quite the different attitude to their more populated version. The Alolan Rattata live in a pack that is less a family and more akin to the style of a human mob organization, as they all work for a single king Raticate, their evolutionary stage. They refuse to eat scraps and survive strictly on fresh products, and this decision has led to many businesses being broken into overnight for the packs of Alolan Rattata to clean out their shelves for food. They have proven themselves to be a far more dangerous species to towns and cities than their common counterpart, so much so that the Alola region imported various other species of Pokémon strictly to counteract the Rattata population and protect their towns from their infestations._”
 
-<p style="text-align: center;">[< Previous Poem](../pidgey) [Home Page](/) [Next Poem >](../spearow)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../pidgey) [Home Page](/) [Next Poem >](../spearow)</p>

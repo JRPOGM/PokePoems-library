@@ -25,4 +25,4 @@ You are tough because it always returns to form
 
 > “_This struggle to walk is only a problem for the Poliwag species because of their internal organs. The stomach of every Poliwag is made of a clear but durable film-like skin, and the spiral found on their bellies are in fact their internal organs pressed against the inside of their flesh. The spiral of their digestive track is often the color black, which is a sign of a healthy Poliwag in their well-being and good digestion, while lighter colors indicate a sickness or a struggle to digest their food. Either way, this does give the Poliwag’s body an imbalance of weight their small feet struggle to compensate for in their youth, thus their tendency to spend a majority of their lives in water instead of on land. Instead, the shape of their bodies and the organization of their internal organs actually helps the Poliwag stay afloat more easily._”
 
-<p style="text-align: center;">[< Previous Poem](../growlithe) [Home Page](/) [Next Poem >](../abra)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../growlithe) [Home Page](/) [Next Poem >](../abra)</p>

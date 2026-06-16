@@ -17,4 +17,4 @@ Even if no one thinks of him as such
 
 > “_As all of their impressive traits are put into their strength and durability, Rhyhorn are quite simple creatures; some might even call them as ‘thick as their own hide.’ They have a short-term memory, and can often forget their actions and intentions quite quickly. They can even forget their own previously claimed territory of land, idling and walking off at random. Collision with a strong-enough object can jog their memories, though, which is more than we know is possible with the equally dull Slowpoke. While this isn’t a problem for the species’ place in Rhyhorn Racing, a popular sport in the Kalos region, it does make the Pokémon unsuitable for any other work or orders one might give them._”
 
-<p style="text-align: center;">[< Previous Poem](../koffing) [Home Page](/) [Next Poem >](../tangela)</p>
+<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../koffing) [Home Page](/) [Next Poem >](../tangela)</p>
