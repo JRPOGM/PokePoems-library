@@ -1,6 +1,6 @@
 # The Big Man
 
-<blockquote>
+<blockquote style="text-align: center;">
 His brain isn’t small<br>
 He’s just thick-skinned and big-boned, is all<br>
 Space and size are relative things<br>

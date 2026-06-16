@@ -1,6 +1,6 @@
 # Man’s Best Friend
 
-<blockquote>
+<blockquote style="text-align: center;">
 What transcends time and space faster<br>
 Leaps and bounds across culture and language further<br>
 Than unfaltering trust<br>
