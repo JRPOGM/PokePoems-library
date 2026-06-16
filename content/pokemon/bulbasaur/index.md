@@ -34,4 +34,4 @@ To leave with bouquets and baskets
 
 > "_Bulbasaur aren’t born with these bulbs though, nor do they grow them naturally. Shortly after they hatch, it is the responsibility of their mother or father Venusaur to draw seeds from the flowers on their own back to plant within the soft hide of their children Bulbasaur. This means the Bulbasaur and its bulb live in a symbiotic-like relationship, as the seed feeds off sunlight and the natural energy of the Pokémon, while the Bulbasaur feeds and can nourish itself with the energy stored in its bulb. This symbiotic relationship ends when the Bulbasaur undergoes evolution, as the genetic recreation and growth of the Pokémon finally encompasses the seed into its natural DNA and becomes a bud on the now Ivysaur’s back._”
 
-<p style="text-align: center;">[Home Page](/) [Next Poem >](../charmander/)</p>
+<p style="text-align: center; background-color: #ffffff;">[Home Page](/) [Next Poem >](../charmander/)</p>
