@@ -1,9 +1,11 @@
 # Blind like a Bat
 
-<blockquote>
+<blockquote style="text-align: center;>
+
 You know where you are in the world,<br>
 What and who surrounds you,<br>
 For who is there when you cry
+
 </blockquote>
 
 ## Zubat, the Bat Pokémon
