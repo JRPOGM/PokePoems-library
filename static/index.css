@@ -6,8 +6,7 @@ body {
   max-width: auto;
   padding: 20px;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  text-align: center;
   max-width: auto;
 	font-family: "Luminari", "Georgia", serif;
 	line-height: 1.6;
