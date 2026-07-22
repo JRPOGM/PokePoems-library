@@ -1,7 +1,7 @@
 body {
 	background-image: url("images/pokeartbackgroundnew.png");
   background-color: #ffffff;
-  max-width: auto;
+  max-width: 100px;
 	margin-left: auto;
 	margin-right: auto;
   padding: 20px;
@@ -15,7 +15,6 @@ h4,
 h5,
 h6 {
 	text-align:center;
-  width: 900px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin-top: 24px;
 	margin-bottom: 24px;
