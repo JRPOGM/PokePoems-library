@@ -5,7 +5,7 @@ Created all<br>
 Knows all<br>
 Does all<br>
 Is all<br>
-One would almost believe God is omnipotent
+One would almost believe God omnipotent
 
 Almost
 
@@ -14,8 +14,8 @@ If God does all, He chooses to be as evil as he could be good<br>
 If God knows all, He cannot feign that choice has any power or place<br>
 If God created all, He must have given pain and suffering for nothing but his own amusement
 
-No man could ever hope to be as aspiring<br>
-Yet they can rest knowing they will never be as cruel<br>
+If man could ever hope to be as aspiring,<br>
+Yet they can rest knowing they will never be as cruel,<br>
 Who does that make the lesser?
 </blockquote>
 

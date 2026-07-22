@@ -7,7 +7,7 @@ On the other side
 
 But all it is<br>
 Is fantasy<br>
-Revelling that humanity has died
+Reveling in humanity's demise
 </blockquote>
 
 ## Snorlax, Secret 11 of 16

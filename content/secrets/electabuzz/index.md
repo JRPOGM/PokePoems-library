@@ -1,4 +1,4 @@
-# The Job Market
+# The Job Market of Wild West
 
 <blockquote>
 Disillusionment is not unwarranted<br>
