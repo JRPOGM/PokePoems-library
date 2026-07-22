@@ -73,7 +73,6 @@ footer {
 }
 img {
   width: 50%;
-  flex-shrink: 0;
   display: block;
   margin: auto;
   height: auto;
