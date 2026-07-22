@@ -48,4 +48,4 @@ Alongside other series I grew up liking as a kid (_Power Rangers_ or _Sonic the 
 Here’s to 30 years more.
 </blockquote>
 
-<footer>All these poems and more have been and will be published and available on the website AllPoetry, under the pen name [JRPOGM](https://new.allpoetry.com/Jrpogm?kind=poem&tab=links)</footer>
+<footer><i>© 2026 JRPOGM. All Rights Reserved.</i></footer>
