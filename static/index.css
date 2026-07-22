@@ -18,6 +18,11 @@ h4,
 h5,
 h6 {
   width: 900px;
+  padding-left: 1em;
+  padding-left: 0.5em;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  padding-right: 0.5em;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin-top: 24px;
 	margin-bottom: 24px;
