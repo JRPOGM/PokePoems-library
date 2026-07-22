@@ -15,7 +15,7 @@ h4,
 h5,
 h6 {
 	text-align:center;
-  width: auto;
+  max-width: 1200px;
   margin: 0 auto;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin-top: 24px;
@@ -40,7 +40,7 @@ h2 {
 ul {
   list-style-type: circle;
   text-align: center;
-  width: 900px;
+  max-width: 900px;
   margin: 0 auto;
   font-size: 22px;
   background: rgba(109, 174, 243, 0.80);
@@ -59,7 +59,7 @@ blockquote {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   padding-right: 0.5em;
-  width: 900px;
+  max-width: 900px;
   margin: 0 auto;
   color: #000000;
   font-size: large;
@@ -67,7 +67,7 @@ blockquote {
 }
 footer {
   text-align: center;
-  width: auto;
+  max-width: auto;
   background-color: #ffffffc0;
   color: black;
 }
