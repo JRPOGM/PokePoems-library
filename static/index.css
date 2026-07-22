@@ -3,6 +3,7 @@ body {
   background-color: #ffffff;
 	margin-left: auto;
 	margin-right: auto;
+  max-width: 900px;
   padding: 20px;
   text-align: center;
   max-width: auto;
@@ -16,7 +17,6 @@ h4,
 h5,
 h6 {
 	text-align:center;
-  width: 900px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin-top: 24px;
 	margin-bottom: 24px;
@@ -39,7 +39,6 @@ h2 {
 }
 ul {
   list-style-type: circle;
-  width: 900px;
   text-align: center;
   font-size: medium;
   background: rgba(109, 174, 243, 0.80);
@@ -51,7 +50,6 @@ blockquote {
   background: rgba(109, 174, 243, 0.80);
   border-radius: 6px;
   line-height: 1;
-  width: 900px;
   border: 3px solid #000000;
   box-shadow: 3px 3px 6px #000000;
   padding-left: 1em;
