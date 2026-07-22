@@ -10,7 +10,7 @@ They are such a big franchise that in recent years they’ve been partnering wit
 
 This is a vault of all poems, artwork and biographical data I have created over the past few months, since early January 2026 until early June 2026, focusing on the basic stage forms of Pokémon from the first generation of games. This includes sixty-three different Pokémon all given their own treatment and themes, all covering various themes inspired by the PokéDex entries for each of them and translated to our own world; themes of individuality, growth, intimacy and emotions; political commentary, political satire and religious introspection; environmental protest and astrological fantasy; what ties these all together is the source in which I could create from without being beholden to their image and name. I have included the art and two paragraphs of biographical information made in the process of finding each poem’s topic, so that readers may be able to see the threads that connect them.
 
-This does not include eleven originally basic-stage Pokémon that were given baby-stage forms in the years after their introduction in 1996, nor the Legendary-status members from the end of the first generation’s roster of Pokémon, though I did create something else for them.
+This does not include eleven originally basic-stage Pokémon that were given baby-stage forms in the years after their introduction in 1996, nor the Legendary-status members from the end of the first generation’s roster of Pokémon. This is solely about the first-stage standard Pokemon who have stayed that way for the past 30 years.
 </blockquote>
 
 ## Poems
