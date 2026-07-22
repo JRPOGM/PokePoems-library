@@ -54,4 +54,4 @@ Pumping the blood in my heart
 
 > “_The only difference between these species besides their typings are their tails. The average Slowpoke seeps a sweet aroma from their tails, and are considered a delicacy in the food world that it once went from being a poached pandemic to a luxury ingredient constantly on the standard market. As Slowpoke can regrow their tails quite quickly and without feeling pain in the process if done right, Slowpoke farms have popped up across the world taking care of this absentminded species and harvesting their tails in return. On the other hand, Galarian Slowpoke tails are actually quite spicy, offered more as a seasoning to meals than a food itself, and which scare off fish when the Dopey Pokémon attempts to fish with it instead of drawing them in._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../ponyta) [Home Page](/) [Next Poem >](../magnemite)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../ponyta) [Home Page](/) [Next Poem >](../magnemite)</p>

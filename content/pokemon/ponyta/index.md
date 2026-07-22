@@ -45,4 +45,4 @@ He gallops up to the little girl, her charred body in the dirt, and demands,<br>
 
 > “_But there is a more elusive breed of this Pokémon. Deep within the Glimmerwood Tangle of Galar live a Psychic-type variant of the Ponyta, whose fiery mane is replaced with lush, pastel hair, and the horns they would have grown as a Rapidash are now sported on the younger Ponyta made of a much tougher substance. This horn is said to possess the healing power to cure illness and even fatal wounds, and have made the Pokémon a victim of poaching in the past. It is believed this chase for them made the Pokémon develop the Psychic ability to read a person’s soul and heart, judging their character to know whether to stay or to run from their presence. It is said that randomly encountering one in the wild can bring good fortune in your near future._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../geodude) [Home Page](/) [Next Poem >](../slowpoke)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../geodude) [Home Page](/) [Next Poem >](../slowpoke)</p>

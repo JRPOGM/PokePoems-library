@@ -24,4 +24,4 @@ Only to be caught up in the flames with it
 
 > “_The Vulpix found in Alola traded their fire for ice. Once known as the Keokeo to the native people of Alola, these Vulpix had fled the same volcanic eruption the Sandshrew did, and were exported to Ula’Ula Island. There, their bodies evolved over time to handle the cooler temperatures and eventually harness the Ice type. Their breath now falls below negative fifty-eight degrees; their tails can shoot Ice Shard with a swing; and at a microscopic scale, tiny snowflakes grow on the hairs of their fur that keep their body temperature low. They are quite popular to own in Alola to combat higher temperatures, using the cold air they emit in confined spaces to cool down houses and businesses during bad heat waves through the region._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../nidoranm) [Home Page](/) [Next Poem >](../zubat)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../nidoranm) [Home Page](/) [Next Poem >](../zubat)</p>

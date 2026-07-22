@@ -14,4 +14,4 @@ For who is there when you cry
 
 > “_Unable to rely on their sight, Zubat instead learned to navigate solely on echolocation. From their mouth, a Zubat can produce ultrasonic soundwaves that bounce off their surroundings and that only those of their species can hear. This is how they manage to fly and avoid collision with stalagmites and stalactites in their cave networks, along with avoiding other Pokémon and people they don’t recognize. The sound is also unique to their colony, as Zubat who have lived separate from each other produce sounds of different frequencies attuned specifically to where they grew up and live._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../vulpix) [Home Page](/) [Next Poem >](../oddish)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../vulpix) [Home Page](/) [Next Poem >](../oddish)</p>

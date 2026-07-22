@@ -35,4 +35,4 @@ Do I even want to know?
 
 > “_In this state, the Psyduck have no control over themselves or their powers. They are essentially in a dream-like state as the Psychic power takes over and enacts the order of their trainer or the Psydyck’s own desires. Once their power is drained, Psyduck will regain control of themselves but retain no memory of the actions that transpired in the release of their power. Sometimes, the Psyduck willingly gives in to their explosion of power, if only because the release alleviates the headaches brought on by their build up within their brains prior. This has led to a decline in the population of wild Psyduck, and today research continues to progress on a means of which to combat the Psyduck’s uncontrollable powers so they may not suffer their entire lives before evolution._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../meowth) [Home Page](/) [Next Poem >](../mankey)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../meowth) [Home Page](/) [Next Poem >](../mankey)</p>

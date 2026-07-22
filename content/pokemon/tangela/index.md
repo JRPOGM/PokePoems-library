@@ -21,4 +21,4 @@ Every kid starts off with a box of crayons
 
 > “_Mankind has only recently found Tangela’s vines make for quite an ingredient. In certain regions of Galar, Tangela can be seen employed at restaurants, their vines broken off and broken down into spices and herbs. They add a refreshing and soothing sensation to the meals they are used with, and they’ve become quite popular on more expensive dishes at establishments to encourage sale of them. Even simply chopped into slices and cooked as a food themselves, Tangela’s vines have a savory flavor to them that seem quite popular with the average businessman as a snack at the end of their day._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../rhyhorn) [Home Page](/) [Next Poem >](../kangaskhan)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../rhyhorn) [Home Page](/) [Next Poem >](../kangaskhan)</p>

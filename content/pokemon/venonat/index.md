@@ -32,4 +32,4 @@ As you burn as you deserve.
 
 > “_Venonat are also very capable battlers. Their thin but stiff coat of purple hair around their body serves as a sturdy barrier between their bodies and the attacks they take, able to eat some damage from even super-effective attacks. Their eyes, on top of having excellent sight, can also fire powerful beams of kinetic Psychic energy, slamming into their opponents like a wall. Though they aren’t all that strong outright, Venonat make up for this with their speed and stealth, maneuvering the night and the shadows they can see through against their less capable opponents._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../paras) [Home Page](/) [Next Poem >](../diglett)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../paras) [Home Page](/) [Next Poem >](../diglett)</p>

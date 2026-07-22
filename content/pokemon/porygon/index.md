@@ -22,4 +22,4 @@ They are simply the staircase we have built into the heavens
 
 > “_Though proof of its use for space travel has not been proven, there are rumors the Pokémon has been used to prove time travel. In what little documentation that’s been saved from the people of Hisui’s expeditions around their region, a few pages nearly lost to degradation supposedly mention a Pokémon believed to be Porygon observed in their time; depictions and names have been lost, but mentions of the color, odd body shape and its lack of breath or heartbeat match what we know of Porygon in our time. If it is true and Porygon have existed near centuries before they were supposedly created, the implications of how and when they got there could mean much more for the future of our world._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../eevee) [Home Page](/) [Next Poem >](../omanyte)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../eevee) [Home Page](/) [Next Poem >](../omanyte)</p>
