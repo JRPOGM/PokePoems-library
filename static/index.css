@@ -4,7 +4,7 @@ body {
 	margin-left: auto;
 	margin-right: auto;
   padding: 20px;
-  text-align: center;
+  max-width: auto;
 	font-family: "Luminari", "Georgia", serif;
 	line-height: 1.6;
 	}
