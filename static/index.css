@@ -16,7 +16,6 @@ h3,
 h4,
 h5,
 h6 {
-	text-align:center;
   width: 900px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin-top: 24px;
@@ -40,7 +39,6 @@ h2 {
 }
 ul {
   list-style-type: circle;
-  text-align: center;
   font-size: medium;
   background: rgba(109, 174, 243, 0.80);
   border-radius: 6px;
@@ -63,7 +61,6 @@ blockquote {
   font-family: serif;
 }
 footer {
-  text-align: center;
   width: auto;
   background-color: #ffffff;
   color: black;
