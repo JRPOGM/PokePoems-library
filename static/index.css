@@ -75,6 +75,7 @@ img {
   max-width: 50%;
   display: flex;
   justify-content: center;
+  align-items: center;
   height: auto;
   border-radius: 6px;
   border: 3px solid #3c3c42;
