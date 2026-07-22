@@ -9,7 +9,6 @@ direct_path_static = "./static"
 direct_path_public = "./docs"
 direct_path_content = "./content"
 template_path = "./template.html"
-template_path_2 = "./template2.html"
 default_basepath = "/"
 
 def main():
@@ -23,6 +22,4 @@ def main():
     copy_files_recursive(direct_path_static, direct_path_public)
     print("Generating page...")
     generate_pages_recursive(direct_path_content, template_path, direct_path_public, basepath)
-    generate_pages_recursive(direct_path_content, template_path_2, direct_path_public, basepath)
-
 main()
