@@ -73,7 +73,8 @@ footer {
 }
 img {
   max-width: 50%;
-  margin: auto;
+  display: flex;
+  justify-content: center;
   height: auto;
   border-radius: 6px;
   border: 3px solid #3c3c42;
