@@ -15,8 +15,7 @@ For all you know<br>
 All you like<br>
 All you share<br>
 Endless arithmetic<br>
-Overlap abound but never stacked
-
+Overlap abound but never stacked<br>
 For all in life’s venn diagram of humanity<br>
 There is a sliver where nothing else sits but you
 
