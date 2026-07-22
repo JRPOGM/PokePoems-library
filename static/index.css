@@ -37,6 +37,7 @@ h2 {
 }
 ul {
   list-style-type: circle;
+  width: 900px;
   text-align: center;
   font-size: medium;
   background: rgba(109, 174, 243, 0.80);
