@@ -17,7 +17,7 @@ Afraid, I think, to blink<br>
 As if it will erase us all
 
 So I greet her in the mornings when she shows<br>
-Perform in the nights when he stares<br>
+Perform in the nights when she stares<br>
 Believing she is watching me, as I remember her<br>
 So when I am gone, she would remember, too<br>
 The microorganisms that danced in her eyes
