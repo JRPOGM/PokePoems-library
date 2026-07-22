@@ -1,13 +1,10 @@
 body {
 	background-image: url("images/pokeartbackgroundnew.png");
   background-color: #ffffff;
+  max-width: 900px;
 	margin-left: auto;
 	margin-right: auto;
-  max-width: auto;
   padding: 20px;
-  display: flex;
-  text-align: center;
-  max-width: auto;
 	font-family: "Luminari", "Georgia", serif;
 	line-height: 1.6;
 	}
@@ -17,12 +14,7 @@ h3,
 h4,
 h5,
 h6 {
-  width: 900px;
-  padding-left: 1em;
-  padding-left: 0.5em;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
-  padding-right: 0.5em;
+	text-align:center;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin-top: 24px;
 	margin-bottom: 24px;
@@ -45,7 +37,7 @@ h2 {
 }
 ul {
   list-style-type: circle;
-  width: 900px;
+  text-align: center;
   font-size: medium;
   background: rgba(109, 174, 243, 0.80);
   border-radius: 6px;
@@ -55,7 +47,6 @@ ul {
 blockquote {
   background: rgba(109, 174, 243, 0.80);
   border-radius: 6px;
-  width: 900px;
   line-height: 1;
   border: 3px solid #000000;
   box-shadow: 3px 3px 6px #000000;
@@ -69,6 +60,7 @@ blockquote {
   font-family: serif;
 }
 footer {
+  text-align: center;
   width: auto;
   background-color: #ffffff;
   color: black;
@@ -76,7 +68,6 @@ footer {
 img {
   max-width: 100%;
   height: auto;
-  width: 900px;
   border-radius: 6px;
   border: 3px solid #3c3c42;
   box-shadow: 3px 3px 6px #000;
