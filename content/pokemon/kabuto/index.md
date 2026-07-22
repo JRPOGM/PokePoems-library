@@ -25,4 +25,4 @@ So too are we built to last as long as possible
 
 > “_It is also rumored this Pokémon never went extinct in the first place. While most of the specimens we can locate were recreated from fossils or are the offspring of revived Kabuto and Kabutops, reports across the world suggest Kabuto had been found naturally in the wild, encountered in underwater caverns far off the shores of several regions. Solid proof of these sightings has yet to fully surface, as like the Omanyte there have been incidents where individual Kabuto have escaped captivity and scurried into the wild. They, too, can be found living in the southern wilds of Galar alongside many other revived fossil species, and we do not know why this location specifically has drawn all these species into the same habitat._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../omanyte) [Home Page](/) [Next Poem >](../aerodactyl)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../omanyte) [Home Page](/) [Next Poem >](../aerodactyl)</p>

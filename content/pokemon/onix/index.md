@@ -35,4 +35,4 @@ It is said he’ll see it all go
 
 > “_Sadly, Onix do not live long lives; though they may sport a strong defense, they lack the proper strength to overcome many opponents they often dwarf in size. Most who do live longer lives do so by evolving into the more powerful Steelix, either in the wild or in the hands of trainers. Before the days of regulated Pokémon ownership, Onix used to live far longer than they do today. Those that reached old age barely resembled the form they’re known for today, as the decades smoothed their edges and their stone bodies took on a shining black color; this is how the Pokémon came to earn its name, resembling onyx stones in what was once believed to be their final forms before the discovery of Steelix._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../gastly) [Home Page](/) [Next Poem >](../drowzee)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../gastly) [Home Page](/) [Next Poem >](../drowzee)</p>

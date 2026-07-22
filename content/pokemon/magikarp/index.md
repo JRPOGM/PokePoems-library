@@ -35,4 +35,4 @@ The white one asks, “What more power is there to gain?”
 
 > “_There’s no fear of this species ever going extinct, though. Magikarp are actually quite fertile, and they produce offspring of nearly one hundred per mother. They’re actually considered a non-violent infestation in many regions, as their numbers dwarf the population of all other present Pokémon, sometimes even combined, and they overtake the waters through sheer numbers alone. It’s believed they have the highest population globally of any Pokémon, and may even outnumber humans in an ongoing upset._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../tauros) [Home Page](/) [Next Poem >](../lapras)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../tauros) [Home Page](/) [Next Poem >](../lapras)</p>

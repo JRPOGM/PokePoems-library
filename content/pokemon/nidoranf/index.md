@@ -35,4 +35,4 @@ A testing, fang-filled smile my way
 
 > “_So too are the rest of their physical traits more tuned to defensive survival. The larger incisors they have are used to help chew food, for themselves and their pack, especially the males. Their teeth can crack the skin of tougher berries, softening them so all their kind can digest them. The male and female share an innate venom they secret through their horns, but as the female Nidoran have blunt-end horns, they can only inflict their venom on predators who charge them first, waiting until they’re close enough for the Nidoran to weakly spew the venom from their horn and spray it about. Any non-immune creature hit by this venom suffers a slow but painful and eventually deadly ailment if it is not cured in time._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../sandshrew) [Home Page](/) [Next Poem >](../nidoranm)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../sandshrew) [Home Page](/) [Next Poem >](../nidoranm)</p>

@@ -46,4 +46,4 @@ These are just phases of a greater cycle
 
 > “_When night falls over the sky, Oddish dig themselves out and begin the journey. It is moonlight -- not sunlight -- that helps this Pokémon grow, and groups of them can be seen walking, as though following the orbit of the moon to stay within its sight for as long as possible. But they also do this to spread seeds into the soil and continue a cycle of nourishing the lands they leave behind for the next group of Oddish who will one day pass through. Some nights, the Oddish will travel as far as one thousand feet from where they started, crossing significant portions of a region for bodies as small as theirs. This tendency has earned the species the scientific name of Oddium Wanderus._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../zubat) [Home Page](/) [Next Poem >](../paras)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../zubat) [Home Page](/) [Next Poem >](../paras)</p>

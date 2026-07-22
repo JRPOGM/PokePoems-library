@@ -36,4 +36,4 @@ See to it that you are not the only building block to fight for this home
 
 > “_Outside of combat, male Nidoran use another notable difference in their biology from the females: their ears. Capable of rotating a full three-hundred-and-sixty degrees, and the muscle control to angle and point their ears however they please, male Nidoran have a well-trained sense of hearing, able to pinpoint the direction and location of sounds made even dozens of meters in the distance. Because this use of their ears requires strength and conscious energy to be on the lookout as guards to their packs, they’ve developed a ‘changing of the guards’ trust with their fellow males, swapping out who is on watch every few hours in the day and even throughout the night._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../nidoranf) [Home Page](/) [Next Poem >](../vulpix)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../nidoranf) [Home Page](/) [Next Poem >](../vulpix)</p>
