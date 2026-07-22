@@ -15,7 +15,7 @@ h4,
 h5,
 h6 {
 	text-align:center;
-  width: 1000px;
+  width: 1200px;
   margin: 0 auto;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin-top: 24px;
@@ -59,7 +59,7 @@ blockquote {
   padding-top: 0.5em;
   padding-bottom: 0.5em;
   padding-right: 0.5em;
-  width: 800px;
+  width: 900px;
   margin: 0 auto;
   color: #000000;
   font-size: large;
