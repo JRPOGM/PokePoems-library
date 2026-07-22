@@ -30,4 +30,4 @@ In a crate as big as space?
 
 > “_We do not fully understand how Eevee can exist as it does with such an unstable genetic code that should make it impossible for any life form to maintain their own sense of self, but we do know that when we do understand it, there will be no Pokémon on our planet we could not evolve. Thanks to the species, we already understand evolution through a trainer’s bond; exposure to sunlight and moon light; absorption of the natural elements; absorption of radioactive elements; and if we could achieve evolution in an Eevee through trade, normal strength gain, exposure to other items or even a difference of gender evolutions, we could determine how and why evolution works worldwide and how to offer it to Pokémon species who otherwise don’t evolve these ways._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../ditto) [Home Page](/) [Next Poem >](../porygon)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../ditto) [Home Page](/) [Next Poem >](../porygon)</p>

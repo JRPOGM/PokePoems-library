@@ -26,4 +26,4 @@ Is a you unafraid to dirty itself again
 
 > “_As Dratini, this evolution line is still quite impressive. They are born big, with bodies at least six feet in length when they hatch. They have been sighted today mostly around rapid-moving bodies of water, such as waterfalls and rocky rivers, as the strong currents act as a protection for the Dratini to molt their skin. And they molt quite often; Dratini have a life energy in their bodies that replenishes and empowers them so much, they need to molt at least once a day to stay healthy. Their molted skin is actually quite valuable in the fashion market, as a few people hunt for them washed up by the rivers into certain lake beds and refashion them into shoes and carrier bags for a high price._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../aerodactyl) [Home Page](/)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../aerodactyl) [Home Page](/)</p>

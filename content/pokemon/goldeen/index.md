@@ -25,4 +25,4 @@ And I am just happy to be in her presence
 
 > “_Do not mistake beauty for weakness; Goldeen are no less skilled in combat than they are in swimming. Atop the head of any Goldeen is a single horn a few inches long, often called a crown to appease the regal nicknames the species has earned over the generations. Paired with their ability to swim up to five knots even against the tide, Goldeen can pierce through the flesh of many opponents and even shatter glass with only a few focused strikes. Aquariums can no longer keep Goldeen in their care, as they often broke their tanks overnight and even when the public is present, the many injuries from such solidifying the refusal from many institutions to house Goldeen among their protected wildlife._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../horsea) [Home Page](/) [Next Poem >](../staryu)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../horsea) [Home Page](/) [Next Poem >](../staryu)</p>

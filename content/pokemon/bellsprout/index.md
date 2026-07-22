@@ -22,4 +22,4 @@ So Flourish
 
 > “_Inside the mouth of the Bellsprout is a destructive toxin. Most often, they only use this to dissolve their food, trapping them in the vines and roots their bodies can grow and corroding them in their mouths to fit. But they can use this poison offensively, spitting it from their mouth to melt even through steel; not Steel-type Pokémon, to clarify, only inanimate metals like tools or pipes. Be wary in approaching one, as Bellsprout have been known to lash out at anything unknown getting too close, and to be caught in its vines could lead to finding a place in its body._”
 
-<p style="text-align: center; background-color: #ffffff;">[< Previous Poem](../machop) [Home Page](/) [Next Poem >](../tentacool)</p>
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../machop) [Home Page](/) [Next Poem >](../tentacool)</p>
