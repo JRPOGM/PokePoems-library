@@ -73,7 +73,6 @@ footer {
 }
 img {
   width: 50%;
-  object-fit: fill;
   display: block;
   margin: auto;
   height: auto;
