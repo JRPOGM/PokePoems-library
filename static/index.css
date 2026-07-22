@@ -61,6 +61,7 @@ blockquote {
 }
 footer {
   text-align: center;
+  width: auto;
   background-color: #ffffff;
   color: black;
 }
