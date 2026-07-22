@@ -72,10 +72,9 @@ footer {
   color: black;
 }
 img {
-  max-width: 50%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  width: 50%;
+  display: block;
+  margin: auto;
   height: auto;
   border-radius: 6px;
   border: 3px solid #3c3c42;
