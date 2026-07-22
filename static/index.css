@@ -73,7 +73,7 @@ footer {
 }
 img {
   max-width: 50%;
-  width: auto;
+  object-fit: fill;
   display: block;
   margin: auto;
   height: auto;
