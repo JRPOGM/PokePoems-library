@@ -48,4 +48,4 @@ Alongside other series I grew up liking as a kid (_Power Rangers_ or _Sonic the 
 Here’s to 30 years more.
 </blockquote>
 
-<footer><i>© 2026 JRPOGM. All Rights Reserved.</i></footer>
+<footer><i>© 2026 JRPOGM. All Rights Reserved. All Pokemon copyright owned and protected by Nintendo, Game Freak, Creatures Inc and The Pokemon Company.</i></footer>
