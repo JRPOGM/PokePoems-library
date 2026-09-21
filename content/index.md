@@ -15,7 +15,7 @@ This does not include eleven originally basic-stage Pokémon that were given bab
 
 ## Poems
 
-- [The Son and The Soil](/pokemon/bulbasaur) - [The Burning Man](/pokemon/charmander) - [Shell of Theseus](/pokemon/squirtle)
+- [The Son and The Soil](/kanto_pokemon/bulbasaur) - [The Burning Man](/pokemon/charmander) - [Shell of Theseus](/pokemon/squirtle)
 - [You’re a Growing Boy](/pokemon/caterpie) - [Hungry, Hungry Caterpillar](/pokemon/weedle) - [Be Careful, Little Birdie](/pokemon/pidgey)
 - [Rat Pak](/pokemon/rattata) - [Just The Way You Are](/pokemon/spearow) - [Looking Out for the Little Ones](/pokemon/ekans)
 - [Survival](/pokemon/sandshrew) - [Pretty Woman](/pokemon/nidoranf) - [The Wall](/pokemon/nidoranm)
