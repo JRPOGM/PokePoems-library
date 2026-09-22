@@ -15,11 +15,11 @@ This does not include eleven originally basic-stage Pokémon that were given bab
 
 ## Poems
 
-- [The Son and The Soil](/pokemon/bulbasaur) - [The Burning Man](/pokemon/charmander) - [Shell of Theseus](/pokemon/squirtle)
-- [You’re a Growing Boy](/pokemon/caterpie) - [Hungry, Hungry Caterpillar](/pokemon/weedle) - [Be Careful, Little Birdie](/pokemon/pidgey)
-- [Rat Pak](/pokemon/rattata) - [Just The Way You Are](/pokemon/spearow) - [Looking Out for the Little Ones](/pokemon/ekans)
-- [Survival](/pokemon/sandshrew) - [Pretty Woman](/pokemon/nidoranf) - [The Wall](/pokemon/nidoranm)
-- [Out Like a Light](/pokemon/vulpix) - [For Who Hears You, Loves You](/pokemon/zubat) - [Love of my Light](/pokemon/oddish)
+- [The Son and The Soil](/pokemon/0001bulbasaur) - [The Burning Man](/pokemon/0002charmander) - [Shell of Theseus](/pokemon/0003squirtle)
+- [You’re a Growing Boy](/pokemon/0004caterpie) - [Hungry, Hungry Caterpillar](/pokemon/0005weedle) - [Be Careful, Little Birdie](/pokemon/0006pidgey)
+- [Rat Pak](/pokemon/0007rattata) - [Just The Way You Are](/pokemon/0008spearow) - [Looking Out for the Little Ones](/pokemon/0009ekans)
+- [Survival](/pokemon/0010sandshrew) - [Pretty Woman](/pokemon/0011nidoranf) - [The Wall](/pokemon/0012nidoranm)
+- [Out Like a Light](/pokemon/0013vulpix) - [For Who Hears You, Loves You](/pokemon/0014zubat) - [Love of my Light](/pokemon/0015oddish)
 - [Control](/pokemon/paras) - [Big Brother](/pokemon/venonat) - [Mystery Man](/pokemon/diglett)
 - [Like a Cat](/pokemon/meowth) - [At the Gate of Memories](/pokemon/psyduck) - [New World Anger](/pokemon/mankey)
 - [Man’s Best Friend](/pokemon/growlithe) - [Thin-Skinned](/pokemon/poliwag) - [Living In A Dream](/pokemon/abra)
