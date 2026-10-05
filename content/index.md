@@ -4,16 +4,10 @@
 
 <blockquote style="text-align: justify;">
 
-In 1996, Game Freak released _Pokémon Red Version_ and _Pokémon Green Version_, a pair of compatible games that were to be the first video game entries into a universe known as _Pokémon_. These games, along with their third and fourth variants of _Blue Version_ and _Yellow Version_, became one of the best-selling video games of all time, igniting a franchise that has lived on for decades and continues to grow and expand its own universe year after year. The _Pokémon_ franchise explored and overtook other forms of media as well, developing several animation series, trading cards, comic volumes, various kinds of merchandise and spin-off video game series under the _Pokémon_ name.
-
-They are such a big franchise that in recent years they’ve been partnering with more and more creators worldwide to create music, shows, animations and more inspired by the series and their personal connections to it. Outside of these official partnerships, so too do many fans and consumers of their work create and share their own works of art, animation, music and even completely original video games series of their own inspired by the Pokemon series. This website is a gallery of my own work of and inspired by _Pokémon_.
-
-This is a vault of all poems, artwork and biographical data I have created over the past few months, since early January 2026 until early June 2026, focusing on the basic stage forms of Pokémon from the first generation of games. This includes sixty-three different Pokémon all given their own treatment and themes, all covering various themes inspired by the PokéDex entries for each of them and translated to our own world; themes of individuality, growth, intimacy and emotions; political commentary, political satire and religious introspection; environmental protest and astrological fantasy; what ties these all together is the source in which I could create from without being beholden to their image and name. I have included the art and two paragraphs of biographical information made in the process of finding each poem’s topic, so that readers may be able to see the threads that connect them.
-
-This does not include eleven originally basic-stage Pokémon that were given baby-stage forms in the years after their introduction in 1996, nor the Legendary-status members from the end of the first generation’s roster of Pokémon. This is solely about the first-stage standard Pokemon who have stayed that way for the past 30 years.
+This static site is a library of all the original poetry, hand-drawn artwork and PokéDex-informed informative text I have created about Pokémon. These works are focused on the first-stage forms of every species line, those who can and cannot evolve included. Excluded are those whose pre-evolutions were introduced in later generations and those of Legendary/Mythical status. This will include a total of 403+ pages of original work about and inspired by the Pokémon featured on their pages. Pages will be live one at a time, as the poems are posted first on AllPoetry the same day. They will be organized by the nine Generations they were written in as bulk projects.
 </blockquote>
 
-## Poems
+## Generation 1
 
 - [The Son and The Soil](/pokemon/0001bulbasaur) - [The Burning Man](/pokemon/0002charmander) - [Shell of Theseus](/pokemon/0003squirtle)
 - [You’re a Growing Boy](/pokemon/0004caterpie) - [Hungry, Hungry Caterpillar](/pokemon/0005weedle) - [Be Careful, Little Birdie](/pokemon/0006pidgey)
@@ -37,15 +31,153 @@ This does not include eleven originally basic-stage Pokémon that were given bab
 - [Secrets of the Universe](/pokemon/0058eevee) - [Digital Footprints on the Moon](/pokemon/0059porygon) - [An Endless Shroud of Mystery](/pokemon/0060omanyte)
 - [To Be Human is To Be Durable](/pokemon/0061kabuto) - [Jaws of Life](/pokemon/0062aerodactyl) - [Layers of Mankind](/pokemon/0063dratini)
 
-## This Is A Personal Project
+## Generation 2
+
+- [Putting Out](/pokemon/0064chikorita) - Why Fire For Rage - Mind, Your Mouth
+- A Deer in Headlights - Infinity Day - Ladybird
+- A Spider Spinning Its Own Silk - A Woman of Two Faces - Walking on Egg Shells
+- Staring Ahead - The Copper Bigwig - Drifter
+- Hands of War - The Struggle of Failure - Power
+- A Snake That Cuts His Fangs - The Inevitability of Death - Forever-Echoing Screams
+- The Gardener - Was There Ever A Mask? - Doll
+- Come On In - Face Hugger - The Sheep in Wolf’s Clothing
+- Right From The Start - Mixer - Crown
+- Hooked On You - Blood-Soaked City - Burn Out
+- Fairy Rings - Polyp Neighborhood - Water Wars
+- Gift-Giving - What Are They Fighting For? - The Versatility of the Human Aqueduct
+- Clean Freak - Tarnished Beauty - Born With a Brush
+- Milc - Born In Darkness
+
+## Generation 3
+
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA
+
+## Generation 4
+
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+
+## Generation 5
+
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+
+## Generation 6
+
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA
+
+## Generation 7
+
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA
+
+## Generation 8
+
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA
+
+## Generation 9
+
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA - TBA - TBA
+- TBA
+
+## The Personal Project of Pokémon Poetry
 
 <blockquote style="text-align: justify;">
 
-_Pokémon_ has been in my life for just about 20 years, since my best friend to this day introduced me to little figurines, episodes of the original anime, and the trading cards I would soon see at school. It has since maintained itself in my life as my favorite media franchise of all time; as I collect nearly thirteen-thousand trading cards; every physical copy of the mainline and spin-off video games I can get my hands on; merchandise in the way of clothing, plushies, posters, figurines and even a blanket; but as much as I take in from the franchise, it has also been one of my many inspirations to give back.
-
-Alongside other series I grew up liking as a kid (_Power Rangers_ or _Sonic the Hedgehog_) and series I grew into as I got older (_Dragon Ball_, _Percy Jackson_ and _Bleach_), _Pokémon_ has inspired me to follow a path of media creation of my own. I drew my own original Pokémon creatures (FakeMon, as they’re called); I made stylized comics with friends in school based around the comics and mangas of the _Pokémon Adventures_ series; and, combined with everything else I was into, led me to study for a degree in creative writing and art. To celebrate 30 years of this franchise and 20 years as a fan of it myself, I felt motivated to create poetry and art, inspired by and directly of respectively, of Pokémon from the first generation of games. 
-
-Here’s to 30 years more.
+I have been a fan of _Pokémon_ since my best friend introduced me to the series when I was 8. Watching episodes of the anime at his house, playing the trading card game at our afterschool program, collecting toys and plushies of our favorite character, and eventually getting my first copies of _Pokémon Ruby_ and _Pokémon Sapphire_ developed by Game Freak for my GameBoy Advance SP endeared me to the world of Pokémon at a young age. Now, over twenty years later, I’ve collected 13,000 _Pokémon_ cards plus over 100 of knock offs from around the world; several figurines and Sitting Cuties to decorate my shelves; dozen of character and world posters plastered on the walls of my room; every mainline game since the GBA and the majority of spin-offs with physical copies from Nintendo’s handheld consoles; and dress shirts of their official original designs. _Pokémon_ is one of the many fictional series I continue to follow as it inspires my own creativity for art and writing. So long as Game Freak continues to deliver something new, I will be there to enjoy it and see what it creates in me.
 </blockquote>
 
-<footer><i>© 2026 JRPOGM. All Rights Reserved. All Pokemon copyright owned and protected by Nintendo, Game Freak, Creatures Inc and The Pokemon Company.</i></footer>
+<footer><i>© 2026 JRPOGM. All Rights Reserved. All Pokémon copyright owned and protected by Nintendo, Game Freak, Creatures Inc and The Pokémon Company.</i></footer>
