@@ -59,4 +59,4 @@ Knot together in solitude
 
 > “_Chikorita also have a natural amora they control the emission of, using the leaf atop their head to waft and spread the scent through the air faster if need be. They often use this when engaged in battles with other Pokémon, many of which greatly outclass the smaller Leaf Pokémon in size and power, thus they choose to rely on their natural aroma to escape safely. Said fragrance is harmless to those who inhale it, as it only succeeds in dulling aggression of those who breathe it in; this can give the Chikorita the opportunity to escape the sights of their docile assailant before their attitude can revert, though this is dependent on the size of their attacker changing how much of the aroma they must inhale for there to be any effect at all._”
 
-<p style="text-align: center; background-color: #ffffffc0;">[Home Page](/)<p>
+<p style="text-align: center; background-color: #ffffffc0;">[Home Page](/) [Next Poem >](../0065cyndaquil)<p>
