@@ -33,7 +33,7 @@ This static site is a library of all the original poetry, hand-drawn artwork and
 
 ## Generation 2
 
-- [Putting Out](/pokemon/0064chikorita) - [Why Fire For Rage](/pokemon/0065cyndaquil) - [Mind, Your Mouth](/pokemon/0065totodile)
+- [Putting Out](/pokemon/0064chikorita) - [Why Fire For Rage](/pokemon/0065cyndaquil) - [Mind, Your Mouth](/pokemon/0066totodile)
 - A Deer in Headlights - Infinity Day - Ladybird
 - A Spider Spinning Its Own Silk - A Woman of Two Faces - Walking on Egg Shells
 - Staring Ahead - The Copper Bigwig - Drifter
