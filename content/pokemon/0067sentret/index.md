@@ -24,6 +24,7 @@ Or to run for the hills
 </blockquote>
 
 ## Sentret, the Scout Pokémon
+
 ![hand-drawn artwork](/images/sentret.jpeg)
 
 > “_A Sentret’s tail is quite tough, despite the plush appearance of the rest of the Pokémon’s body. Their hind appendage is firm, capable of supporting the body’s weight at a height above which they normally stand at on their hind legs. Like the Doduo’s aversion to fighting with their feet, Sentet do not use their tails for battle; instead, they are used to help scout their surroundings. As a pack species, Sentret appoint individuals who work as watchmen for the rest of them, propped up on their tails like watchtowers above the tall grass areas they live in._”
