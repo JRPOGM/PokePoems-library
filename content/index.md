@@ -35,7 +35,7 @@ This static site is a library of all the original poetry, hand-drawn artwork and
 
 - [Putting Out](/pokemon/0064chikorita) - [Why Fire For Rage](/pokemon/0065cyndaquil) - [Mind, Your Mouth](/pokemon/0066totodile)
 - [A Deer in Headlights](/pokemon/0067sentret) - [Infinity Day](/pokemon/0068hoothoot) - [Ladybird](/pokemon/0069ledyba)
-- [A Spider Spinning Its Own Silk](/pokemon/0070spinarak) - A Woman of Two Faces - Walking on Egg Shells
+- [A Spider Spinning Its Own Silk](/pokemon/0070spinarak) - [A Woman of Two Faces](/pokemon/0071chinchou) - Walking on Egg Shells
 - Staring Ahead - The Copper Bigwig - Drifter
 - Hands of War - The Struggle of Failure - Power
 - A Snake That Cuts His Fangs - The Inevitability of Death - Forever-Echoing Screams
