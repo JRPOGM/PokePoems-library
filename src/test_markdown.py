@@ -43,11 +43,9 @@ class TestExtractions(unittest.TestCase):
         nodes = text_to_textnodes("This is _text_ with only **words**")
         self.assertListEqual([TextNode("This is ", TextType.TEXT), TextNode("text", TextType.ITALIC), TextNode(" with only ", TextType.TEXT), TextNode("words", TextType.BOLD)], nodes)
 
-
     def test_text_to_textnodes3(self):
         nodes = text_to_textnodes("This is more **text** with a [link](https://boot.dev) and some normal `codes`")
         self.assertListEqual([TextNode("This is more ", TextType.TEXT), TextNode("text", TextType.BOLD), TextNode(" with a ", TextType.TEXT), TextNode("link", TextType.LINKS, "https://boot.dev"), TextNode(" and some normal ", TextType.TEXT), TextNode("codes", TextType.CODE)], nodes)
-
 
     def test_text_to_textnodes4(self):
         nodes = text_to_textnodes("This is test with an ![image](https://i.imgur.com/zjjcJKZ.png) and **absolutely nothing else**")
