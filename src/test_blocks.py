@@ -75,18 +75,15 @@ the **same** even with inline stuff
 
     def test_quotes(self):
         md = """
-> This is text in a quote
-> This is a **bold quote**
-> This is an _italic_ quote
-> This is some `code`
+> I am quoting myself
+> Because I deleted the test from the old format
+> So damb, fuck myself I guess
+
 """
         node = markdown_to_html_node(md)
         html = node.to_html()
-        self.assertEqual(
-            html,
-            "<div><blockquote>This is text in a quote This is a <b>bold quote</b> This is an <i>italic</i> quote This is some <code>code</code></blockquote></div>",
-        )
-    
+        self.assertEqual(html, "<div><blockquote>I am quoting myself Because I deleted the test from the old format So damb, fuck myself I guess</blockquote></div>")
+
     def test_ordered_list(self):
         md = """
 1. I'm making a list again
