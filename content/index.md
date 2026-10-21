@@ -37,7 +37,7 @@ This static site is a library of all the original poetry, hand-drawn artwork and
 - [A Deer in Headlights](/pokemon/0067sentret) - [Infinity Day](/pokemon/0068hoothoot) - [Ladybird](/pokemon/0069ledyba)
 - [A Spider Spinning Its Own Silk](/pokemon/0070spinarak) - [A Woman of Two Faces](/pokemon/0071chinchou) - [Walking on Egg Shells](/pokemon/0072togepi)
 - [Staring Ahead](pokemon/0073natu) - [The Copper Bigwig](/pokemon/0074mareep) - [Drifter](/pokemon/0075hoppip)
-- Hands of War - The Struggle of Failure - Power
+- [Hands of War](/pokemon/0076aipom) - The Struggle of Failure - Power
 - A Snake That Cuts His Fangs - The Inevitability of Death - Forever-Echoing Screams
 - The Gardener - Was There Ever A Mask? - Doll
 - Come On In - Face Hugger - The Sheep in Wolf’s Clothing
