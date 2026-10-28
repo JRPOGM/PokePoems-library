@@ -38,7 +38,7 @@ This static site is a library of all the original poetry, hand-drawn artwork and
 - [A Spider Spinning Its Own Silk](/pokemon/0070spinarak) - [A Woman of Two Faces](/pokemon/0071chinchou) - [Walking on Egg Shells](/pokemon/0072togepi)
 - [Staring Ahead](pokemon/0073natu) - [The Copper Bigwig](/pokemon/0074mareep) - [Drifter](/pokemon/0075hoppip)
 - [Hands of War](/pokemon/0076aipom) - [The Struggle of Failure](/pokemon/0077sunkern) - [Storm Fall](/pokemon/0078yanma)
-- [A Snake That Cuts His Fangs](/pokemon/0079wooper) - [The Crow That Lingers Overhead](/pokemon/0080murkrow) - Forever-Echoing Screams
+- [A Snake That Cuts His Fangs](/pokemon/0079wooper) - [The Crow That Lingers Overhead](/pokemon/0080murkrow) - [Forever-Echoing Screams](/pokemon/0081misdreavus)
 - The Gardener - Was There Ever A Mask? - Doll
 - Come On In - Face Hugger - The Sheep in Wolf’s Clothing
 - Right From The Start - Mixer - Crown
