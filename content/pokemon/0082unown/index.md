@@ -1,0 +1,33 @@
+# The Gardener
+
+<blockquote>
+I struggle to find the words<br>
+Because I struggle to find where they come from
+
+There are responses<br>
+Strings to be sent<br>
+My ears are offered sunlight and rainwater<br>
+And from the soul of my reflections<br>
+Flowers bloom from my mouth in return
+
+But where did the seeds come from?<br>
+Who planted hate and love so they could grow?<br>
+Who toiled on my brain and tilled its lumps?
+
+I was someone’s garden once<br>
+I was tended to for years<br>
+Were they planted young<br>
+Or were they here before my birth?
+
+Who were you, botanist of my heart?
+</blockquote>
+
+## Unown, the Symbol Pokémon
+
+![hand-drawn artwork](/images/unown.jpeg)
+
+> “_There is an old language -- the oldest surviving language today -- that now remains indecipherable. Natural engravings of this hieroglyphic language exist naturally in only a few places around the world, the largest historical sites found in the Johto and the Sinnoh regions. While modern linguistics continue efforts to translate these carvings, there is at least one known connection to this language, and that is through the Pokémon these symbols represent: Unown._”
+
+> “_Fittingly, there is very little information about Unown. They are weak creatures in battle, incapable of using more than a single move to attack and frail in receiving damage. What is reported about them pertains to some of the oldest information of the world. Records of the species’ existence trail back thousands of years ago, and though the associated language has not been parsed, there does seem to be a connective tissue between them and the creation of the universe. It is believed the language is based on their form, possibly recounting stories and myths of life’s origin and the creator of all life, Arceus._”
+
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../0081misdreavus) [Home Page](/) [Next Poem >](../0083girafarig)<p>
