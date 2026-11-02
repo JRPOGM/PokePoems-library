@@ -1,0 +1,34 @@
+# Matryoshka
+
+<blockquote>
+You put up walls<br>
+Layers and layers of defenses and barriers<br>
+Hiding what, I ask<br>
+Not yourself, I hope<br>
+It’s all too noticeable to ignore<br>
+Same as the layer of you beneath it all
+
+You’re already hiding your heart<br>
+Under skin, muscle and bone<br>
+Protecting it from breaking<br>
+Preventing it from tearing<br>
+Your mind is secured in the dome<br>
+Concealing all your fears<br>
+Controlling all your thoughts
+
+Covers hiding covers hiding covers<br>
+When you never had to do that with me before<br>
+But they will not deter me<br>
+I will peel them all, one by one<br>
+Until I see the smile I believe
+</blockquote>
+
+## Pineco, the Bagworm Pokémon
+
+![hand-drawn artwork](/images/pineco.jpeg)
+
+> “_Pineco do not imitate the pinecone as simply a means of disguise. Their form is incredibly defensive, one the species spends its days constantly rebuilding and reinforcing with bark from their surroundings for a consistent level of protection. Layers of wood paneling defend their inner body from the outside world, most intentional from predator bird Pokémon; their shells can take attacks from beaks and talons for a substantial time that they may tire out their attackers before any can find the body beneath it all. The shape of their layers is a tactic to avoid confrontation to begin with, and Pineco will rarely move of their own accord to keep up the act unless they desperately need to take action._”
+
+> “_That does not mean the species cannot be aggressive. Though most of their effort is spent on bettering their defenses and planning around their predators’ attacks, Pineco are known to have shorter tempers than most. If an assailant Pokémon is to bother it for too long, the species will rarely wait them out to leave first, and they will resort to their first and greatest method of counter attack: Self Destruct. Pineco will drop from the trees they hang it and blow up using the explosive move the moment they hit the ground, directly damaging any ground floor attackers or scaring off any which came at them from the sky; while this does hurt the Pineco greatly to do, it achieves the goal of providing them cover and time to recuperate without interruption from another predator._”
+
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../0083girafarig) [Home Page](/) [Next Poem >](../0085dunsparce)<p>
