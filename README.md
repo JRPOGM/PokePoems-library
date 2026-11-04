@@ -1,5 +1,5 @@
 # PokePoems-library
-A static site for all poems, artwork and biographical information I have written on the basic stage Pokemon in the series. This site is continuing with new poems and artwork posted once a weekday in bulk productions, spearated by each Generation as Pokemon denotes them.
+A static site for all poems, artwork and biographical information I have written on the basic stage Pokemon in the series. This site is continuing with new poems and artwork posted once a weekday in bulk productions, spearated by each Generation as Pokemon denotes them. Generation One is completed. Generation Two is currently under development until November 30, 2026. All future generations are in pre-development stages.
 
 Not mobile friendly. Open on a laptop/computer to view appropriately.
 
