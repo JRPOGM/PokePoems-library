@@ -1,4 +1,4 @@
-# Mixer
+# Mixing Event
 
 <blockquote>
 And the wallflower sit in the back<br>
