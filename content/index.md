@@ -41,7 +41,7 @@ This static site is a library of all the original poetry, hand-drawn artwork and
 - [A Snake That Cuts His Fangs](/pokemon/0079wooper) - [The Crow That Lingers Overhead](/pokemon/0080murkrow) - [Forever-Echoing Screams](/pokemon/0081misdreavus)
 - [The Gardener](/pokemon/0082unown) - [Was There Ever A Mask?](/pokemon/0083girafarig) - [Matryoshka](/pokemon/0084pineco)
 - [Come On In](/pokemon/0085dunsparce) - [Face Hugger](/pokemon/0086gligar) - [The Sheep in Wolf’s Clothing](/pokemon/0087snubbull)
-- [The Sheep in Wolf’s Clothing 2](/pokemon/0088qwilfish) - Mixer - Crown
+- [The Sheep in Wolf’s Clothing 2](/pokemon/0088qwilfish) - [Mixer](/pokemon/0089shuckle) - Crown
 - Hooked On You - Blood-Soaked City - Burn Out
 - Fairy Rings - Polyp Neighborhood - Water Wars
 - Gift-Giving - What Are They Fighting For? - The Versatility of the Human Aqueduct
