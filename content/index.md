@@ -42,7 +42,7 @@ This static site is a library of all the original poetry, hand-drawn artwork and
 - [The Gardener](/pokemon/0082unown) - [Was There Ever A Mask?](/pokemon/0083girafarig) - [Matryoshka](/pokemon/0084pineco)
 - [Come On In](/pokemon/0085dunsparce) - [Face Hugger](/pokemon/0086gligar) - [The Sheep in Wolf’s Clothing](/pokemon/0087snubbull)
 - [The Sheep in Wolf’s Clothing 2](/pokemon/0088qwilfish) - [Mixer](/pokemon/0089shuckle) - [Crown](/pokemon/0090heracross)
-- Hooked On You - Blood-Soaked City - Burn Out
+- [Hooked On You](/pokemon/0091sneasel) - Blood-Soaked City - Burn Out
 - Fairy Rings - Polyp Neighborhood - Water Wars
 - Gift-Giving - What Are They Fighting For? - The Versatility of the Human Aqueduct
 - Clean Freak - Tarnished Beauty - Born With a Brush
