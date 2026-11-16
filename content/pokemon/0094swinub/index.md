@@ -1,0 +1,27 @@
+# Fairy Rings
+
+<blockquote>
+Toadstools dance in the scorched grass trailing behind the dragon’s tail<br>
+The jig bug prancing on their flat tops<br>
+A plan in brew, stirring in grasshopper strings
+
+An eternal song of enchantment and entrapment<br>
+As sung by the fairies of old<br>
+With a band of whistling grass blades<br>
+And wind drumming on tree trunks cold
+
+To ensnare all those who enter the ring<br>
+To feed the dragon king<br>
+So the land may burn and the mushrooms may grow<br>
+So the next trap may be laid in the Spring
+</blockquote>
+
+## Swinub, the Pig Pokémon
+
+![hand-drawn artwork](/images/swinub.jpeg)
+
+> “_The fur of a Swinub covers almost every inch of their body from view, except for the pink nose on the front of their face. They are excellent seekers, using their sense of scent to follow and locate certain aromas whether they are hunting or relaxing. Even in colder climates and strong storms, Swinub can press their nose to the ground and follow the lingering traces of another’s scent. Be it dirt, sand or ice, these Pokémon can track the trails of anything anywhere better than almost any species._”
+
+> “_Swinub enjoy hunting for mushrooms at their own leisure, most specifically the fairy rings made of the Crowned Bonnet mushrooms grown in the Crown Tundra of Galar, but they have no real qualms over which source of food they come across. Under human care, many use the Swinub’s scent to provide search and rescue for those who may be lost in tundra areas around the world. When they evolve into Piloswine or Mamoswine their bodies can be used to clear high inches of snow to make paths in the storms, but in the Swinub stage they can sniff out the trails of people through the snow or anyone who may be trapped beneath it._”
+
+<p style="text-align: center; background-color: #ffffffc0;">[< Previous Poem](../0093slugma) [Home Page](/) [Next Poem >](../0095corsola)<p>
