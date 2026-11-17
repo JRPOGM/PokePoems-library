@@ -1,7 +1,6 @@
 body {
-	background-image: url(/images/pokepoemartwallgentwo.png);
-  background-size: cover;
-  background-position: center;
+	background-image: url("/images/pokepoemartwallgentwo.png");
+  background-color: #fff;
   max-width: auto;
 	margin-left: auto;
 	margin-right: auto;
