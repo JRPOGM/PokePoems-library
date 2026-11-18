@@ -1,5 +1,5 @@
 body {
-	background-image: url("/images/pokepoemartwallgentwo.png");
+	background-image: url('images/pokepoemartwallgentwo.png');
   background-color: #9b9b9b;
   max-width: auto;
 	margin-left: auto;
