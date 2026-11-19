@@ -44,7 +44,7 @@ This static site is a library of all the original poetry, hand-drawn artwork and
 - [The Sheep in Wolf’s Clothing 2](/pokemon/0088qwilfish) - [Mixer](/pokemon/0089shuckle) - [Crown](/pokemon/0090heracross)
 - [Hooked On You](/pokemon/0091sneasel) - [Blood-Soaked Clay](/pokemon/0092teddiursa) - [Burn Out](/pokemon/0093slugma)
 - [Fairy Rings](/pokemon/0094swinub) - [Polyp Neighborhood](/pokemon/0095corsola) - [Water Wars](/pokemon/0096remoraid)
-- Gift-Giving - What Are They Fighting For? - The Versatility of the Human Aqueduct
+- [Gift-Giving](/pokemon/0097delibird) - What Are They Fighting For? - The Versatility of the Human Aqueduct
 - Clean Freak - Tarnished Beauty - Born With a Brush
 - Milc - Born In Darkness
 
