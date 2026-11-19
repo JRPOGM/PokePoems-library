@@ -1,6 +1,6 @@
 body {
-	background-image: url('/images/pokepoemarttwo.jpeg');
-  background-color: #9b9b9b;
+  background-color: goldenrod;
+  background-image: linear-gradient(to right, goldenrod, silver);
   max-width: auto;
 	margin-left: auto;
 	margin-right: auto;
