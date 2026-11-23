@@ -19,7 +19,7 @@ Yet mankind has come to tell them apart
 
 ## Houndour, the Dark Pokémon
 
-![hand-drawn artwork](/images/houndor.jpeg)
+![hand-drawn artwork](/images/houndour.jpeg)
 
 > “_Houndour are vocal creatures. They travel in packs, hunters making the majority of their numbers, and every action they take are informed by the voice of another. Packs of Houndour have a language all of their own, where their cries and their barks and their howls each signify a different emotion, command, or piece of information only others of their pack would understand. The only universal sound between packs and families is the lone cry that the others wake to, to inform them all of the new day. They are often loudest when they hunt, howling through the air to inform the others of their position and of the prey they are chasing together; with spacial coordination, Houndour use each other’s cries to scare their target into a specific path in which they can corner them._”
 
