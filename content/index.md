@@ -45,7 +45,7 @@ This static site is a library of all the original poetry, hand-drawn artwork and
 - [Hooked On You](/pokemon/0091sneasel) - [Blood-Soaked Clay](/pokemon/0092teddiursa) - [Burn Out](/pokemon/0093slugma)
 - [Fairy Rings](/pokemon/0094swinub) - [Polyp Neighborhood](/pokemon/0095corsola) - [Water Wars](/pokemon/0096remoraid)
 - [Gift-Giving](/pokemon/0097delibird) - [What Are They Fighting For?](/pokemon/0098skarmory) - [The Versatility of the Human Aqueduct](/pokemon/0099houndour)
-- Clean Freak - Tarnished Beauty - Born With a Brush
+- [Clean Freak](/pokemon/0100phanpy) - Tarnished Beauty - Born With a Brush
 - Milc - Born In Darkness
 
 ## Generation 3
