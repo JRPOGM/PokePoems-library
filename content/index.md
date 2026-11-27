@@ -9,7 +9,7 @@ This static site is a library of all the original poetry, hand-drawn artwork and
 
 ## Generation 1
 
-- [The Son and The Soil](/pokemon/0001bulbasaur) - [The Burning Man](/pokemon/0002charmander) - [Shell of Theseus](/pokemon/0003squirtle)
+- [The Son and The Soil](/pokemon/0001bulbasaur) ![pixel art](/pixels/0001pix.png) - [The Burning Man](/pokemon/0002charmander) - [Shell of Theseus](/pokemon/0003squirtle)
 - [You’re a Growing Boy](/pokemon/0004caterpie) - [Hungry, Hungry Caterpillar](/pokemon/0005weedle) - [Be Careful, Little Birdie](/pokemon/0006pidgey)
 - [Rat Pak](/pokemon/0007rattata) - [Just The Way You Are](/pokemon/0008spearow) - [Looking Out for the Little Ones](/pokemon/0009ekans)
 - [Survival](/pokemon/0010sandshrew) - [Pretty Woman](/pokemon/0011nidoranf) - [The Wall](/pokemon/0012nidoranm)
@@ -45,7 +45,7 @@ This static site is a library of all the original poetry, hand-drawn artwork and
 - [Hooked On You](/pokemon/0091sneasel) - [Blood-Soaked Clay](/pokemon/0092teddiursa) - [Burn Out](/pokemon/0093slugma)
 - [Fairy Rings](/pokemon/0094swinub) - [Polyp Neighborhood](/pokemon/0095corsola) - [Water Wars](/pokemon/0096remoraid)
 - [Gift-Giving](/pokemon/0097delibird) - [What Are They Fighting For?](/pokemon/0098skarmory) - [The Versatility of the Human Aqueduct](/pokemon/0099houndour)
-- [Clean Freak](/pokemon/0100phanpy) - [Tarnished Beauty](/pokemon/0101stantler) - Born With a Brush
+- [Clean Freak](/pokemon/0100phanpy) - [Tarnished Beauty](/pokemon/0101stantler) - [Born With a Brush](/pokemon/0102smeargle)
 - Milc - Born In Darkness
 
 ## Generation 3
