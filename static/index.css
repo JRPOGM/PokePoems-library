@@ -24,27 +24,24 @@ h6 {
 h1 {
 	font-size: 3em;
   font-weight: bolder;
-  -webkit-text-stroke: .1px red;
 	color: black;
   background: rgb(80, 161, 248);
-  border: 3px solid red;
+  border: 5px solid red;
 }
 h2 {
 	font-size: 2em;
   font-weight: bolder;
-  -webkit-text-stroke: .1px yellow;
 	color: black;
   background: rgb(80, 161, 248);
-  border: 3px solid yellow;
+  border: 5px solid yellow;
 }
 h3 {
   font-size: 2em;
   font-weight: bolder;
-  -webkit-text-stroke: .1px green;
   width: 300px;
 	color: black;
   background: rgb(80, 161, 248);
-  border: 3px solid green;
+  border: 5px solid green;
 }
 ul {
   list-style-type: circle;
