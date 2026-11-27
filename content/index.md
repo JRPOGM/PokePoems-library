@@ -9,7 +9,7 @@ This static site is a library of all the original poetry, hand-drawn artwork and
 
 ## Generation 1
 
-- [The Son and The Soil](/pokemon/0001bulbasaur) ![pixel art](/pixels/0001pix.png) - [The Burning Man](/pokemon/0002charmander) - [Shell of Theseus](/pokemon/0003squirtle)
+- [The Son and The Soil](/pokemon/0001bulbasaur) - [The Burning Man](/pokemon/0002charmander) - [Shell of Theseus](/pokemon/0003squirtle)
 - [You’re a Growing Boy](/pokemon/0004caterpie) - [Hungry, Hungry Caterpillar](/pokemon/0005weedle) - [Be Careful, Little Birdie](/pokemon/0006pidgey)
 - [Rat Pak](/pokemon/0007rattata) - [Just The Way You Are](/pokemon/0008spearow) - [Looking Out for the Little Ones](/pokemon/0009ekans)
 - [Survival](/pokemon/0010sandshrew) - [Pretty Woman](/pokemon/0011nidoranf) - [The Wall](/pokemon/0012nidoranm)
