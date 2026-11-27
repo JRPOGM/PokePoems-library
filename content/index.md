@@ -4,7 +4,9 @@
 
 <blockquote style="text-align: justify;">
 
-This static site is a library of all the original poetry, hand-drawn artwork and PokéDex-informed informative text I have created about Pokémon. These works are focused on the first-stage forms of every species line, those who can and cannot evolve included. Excluded are those whose pre-evolutions were introduced in later generations and those of Legendary/Mythical status. This will include a total of 403+ pages of original work about and inspired by the Pokémon featured on their pages. Pages will be live one at a time, as the poems are posted first on AllPoetry the same day. They will be organized by the nine Generations they were written in as bulk projects.
+This static site is a library of all the original poetry, hand-drawn artwork and PokéDex-informed informative text I have created about Pokémon. These works are focused on the first-stage forms of every species line, those who can and cannot evolve included. Excluded are those whose pre-evolutions were introduced in later generations and those of Legendary/Mythical status.
+
+This will include a total of 403+ pages of original work about and inspired by the Pokémon featured on their pages. Pages will be live one at a time, as the poems are posted first on AllPoetry the same day. They will be organized by the nine Generations they were written in as bulk projects.
 </blockquote>
 
 ### Generation 1
@@ -246,7 +248,11 @@ This static site is a library of all the original poetry, hand-drawn artwork and
 
 <blockquote style="text-align: justify;">
 
-I have been a fan of _Pokémon_ since my best friend introduced me to the series when I was 8. Watching episodes of the anime at his house, playing the trading card game at our afterschool program, collecting toys and plushies of our favorite character, and eventually getting my first copies of _Pokémon Ruby_ and _Pokémon Sapphire_ developed by Game Freak for my GameBoy Advance SP endeared me to the world of Pokémon at a young age. Now, over twenty years later, I’ve collected 13,000 _Pokémon_ cards plus over 100 of knock offs from around the world; several figurines and Sitting Cuties to decorate my shelves; dozen of character and world posters plastered on the walls of my room; every mainline game since the GBA and the majority of spin-offs with physical copies from Nintendo’s handheld consoles; and dress shirts of their official original designs. _Pokémon_ is one of the many fictional series I continue to follow as it inspires my own creativity for art and writing. So long as Game Freak continues to deliver something new, I will be there to enjoy it and see what it creates in me.
+I have been a fan of _Pokémon_ since my best friend introduced me to the series when I was 8. Watching episodes of the anime at his house, playing the trading card game at our afterschool program, collecting toys and plushies of our favorite character, and eventually getting my first copies of _Pokémon Ruby_ and _Pokémon Sapphire_ developed by Game Freak for my GameBoy Advance SP endeared me to the world of Pokémon at a young age.
+
+Now, over twenty years later, I’ve collected 13,000 _Pokémon_ cards plus over 100 of knock offs from around the world; several figurines and Sitting Cuties to decorate my shelves; dozen of character and world posters plastered on the walls of my room; every mainline game since the GBA and the majority of spin-offs with physical copies from Nintendo’s handheld consoles; and dress shirts of their official original designs.
+
+_Pokémon_ is one of the many fictional series I continue to follow as it inspires my own creativity for art and writing. So long as Game Freak continues to deliver something new, I will be there to enjoy it and see what it creates in me.
 </blockquote>
 
 <footer><i>© 2026 JRPOGM. All Rights Reserved. All Pokémon copyright owned and protected by Nintendo, Game Freak, Creatures Inc and The Pokémon Company.</i></footer>
