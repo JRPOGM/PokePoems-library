@@ -51,7 +51,7 @@ ul {
   text-align: center;
   max-width: 375px;
   margin: 0 auto;
-  font-size: clamp(12px, 100%, 22px);
+  font-size: clamp(14px, 100%, 22px);
   background: rgb(80, 161, 248);
   border-radius: 6px;
   border: 3px solid #3c3c42;
@@ -72,7 +72,7 @@ blockquote {
   max-width: 900px;
   margin: 0 auto;
   color: #000000;
-  font-size: large;
+  font-size: clamp(14px, 100%, 22px);
   font-family: serif;
 }
 footer {
