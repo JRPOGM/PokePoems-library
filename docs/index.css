@@ -24,7 +24,7 @@ h6 {
 h1 {
 	font-size: 3em;
   font-weight: bolder;
-  -webkit-text-stroke: .2px red;
+  -webkit-text-stroke: .1px red;
 	color: black;
   background: rgb(80, 161, 248);
   border: 3px solid red;
@@ -32,7 +32,7 @@ h1 {
 h2 {
 	font-size: 2em;
   font-weight: bolder;
-  -webkit-text-stroke: .2px yellow;
+  -webkit-text-stroke: .1px yellow;
 	color: black;
   background: rgb(80, 161, 248);
   border: 3px solid yellow;
@@ -40,7 +40,7 @@ h2 {
 h3 {
   font-size: 2em;
   font-weight: bolder;
-  -webkit-text-stroke: .2px green;
+  -webkit-text-stroke: .1px green;
   width: 300px;
 	color: black;
   background: rgb(80, 161, 248);
