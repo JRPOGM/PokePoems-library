@@ -116,8 +116,8 @@ This will include a total of 403+ pages of original work about and inspired by t
 - [Clean Freak](/pokemon/0100phanpy) ![pixel art](/pixels/0100pix.png)
 - [Tarnished Beauty](/pokemon/0101stantler) ![pixel art](/pixels/0101pix.png)
 - [Born With a Brush](/pokemon/0102smeargle) ![pixel art](/pixels/0102pix.png)
-- Milc
-- Born In Darkness
+- Milc ![pixel art](/pixels/0000pix.png)
+- Born In Darkness ![pixel art](/pixels/0000pix.png)
 
 ### Generation 3
 
